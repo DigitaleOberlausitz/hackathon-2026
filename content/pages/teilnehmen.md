@@ -8,7 +8,7 @@ title: Teilnehmen
 Der Hackathon lebt von den Teilnehmenden und daher freuen wir uns auf euch. Damit wir alles sorgfältig planen können und
 genug Sensoren und Lebensmittel bereitstehen, bitten wir um eine zeitnahe, unverbindliche aber ernstgemeinte...
 
-- [Anmeldung über eveeno](https://eveeno.com/hackathon-goerlitz-2024)
+- [Anmeldung über eveeno](https://eveeno.com/hackathon-goerlitz-2026)
 
 **Für die Teilnahme ist ein Mindestalter von 16 Jahren notwendig.**
 
@@ -85,7 +85,7 @@ unter [Technische Infos](/techinfo).
 
 - **Zu welchen Zeiten findet der Hackathon statt??**
 
-  Der Hackathon findet von Freitag, den 18.10.2024 bis Sonntag, den 20.10.2024 statt.
+  Der Hackathon findet von Freitag, den 29.05.2025 bis Sonntag, den 31.05.2026 statt.
 
     - Am Freitag startet der Hackathon 14:30 Uhr (Einlass ab 13:30 Uhr) und geht bis 22 Uhr.
     - Am Samstag sind wir von 8:30 Uhr bis 22 Uhr vor Ort.

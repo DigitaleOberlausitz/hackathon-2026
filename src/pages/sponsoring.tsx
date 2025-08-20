@@ -29,7 +29,7 @@ Organisation des Hackathons sowie die Finanzierung von Preisen für die Teilnehm
 - Erwähnung mit Logo auf Hackathon-Website
 - Erwähnung als Veranstaltungspartner durch uns bei Eröffnungsveranstaltung
 - kleines Logo auf Sponsoren-Poster oder digitaler Sponsoren-Präsentation
-- Erwähnung mit Logo auf Werbe-Plakat (zeitlich befristed bis 31.08.2024)
+- Erwähnung mit Logo auf Werbe-Plakat (zeitlich befristed bis 31.11.2026)
 
 ## Silber-Paket (512 Euro)
 - alles aus Bronze-Paket

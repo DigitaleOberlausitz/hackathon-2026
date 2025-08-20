@@ -3,9 +3,9 @@ slug: ""
 title: Home
 ---
 
-# Hackathon 2024 - Save the Date
+# Hackathon 2026 - Save the Date
 
-Vom **18.10.2024 bis 20.10.2024** findet die dritte Auflage unseres Hackathons in Görlitz statt.
+Vom **29.05.2026 bis 31.05.2026** findet die dritte Auflage unseres Hackathons in Görlitz statt.
 
 ## Wo?
 
@@ -13,7 +13,7 @@ Vom **18.10.2024 bis 20.10.2024** findet die dritte Auflage unseres Hackathons i
 
 ## Wann?
 
-18.10.2024 bis 20.10.2024, Einlass ab 13:30 Uhr Eröffnung 18.10.2024 14:30 Uhr
+29.05.2026 bis 31.05.2026, Einlass ab 13:30 Uhr Eröffnung 29.05.2026 14:30 Uhr
 Weitere Details zum Ablauf folgen.
 
 # Challenge
