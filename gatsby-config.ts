@@ -34,7 +34,6 @@ const config: GatsbyConfig = {
                 ],
             },
         },
-        "gatsby-plugin-sass",
         {
             resolve: "gatsby-source-filesystem",
             options: {

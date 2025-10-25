@@ -1,0 +1,43 @@
+.navbar {
+    background-image: url("/leiterbahnen.svg");
+    background-position: bottom;
+    background-repeat: no-repeat;
+}
+
+.navbar ul {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar li {
+    list-style: none;
+    margin-bottom: 0.3em;
+}
+
+.navbar a {
+    display: block;
+    height: 2em;
+    font-size: 1.2em;
+}
+
+.navbar li > p {
+    margin-top: 0;
+    font-size: 1.2em;
+}
+
+.navbar li > ul > li {
+    margin-left: 1.5em;
+}
+
+.navbar .archive a {
+    font-size: 0.9em;
+}
+
+.navbar .archive p {
+    font-size: 1.1em;
+    margin-bottom: 0;
+}
+
+.navbar .archive ul {
+    margin-left: 1em;
+}

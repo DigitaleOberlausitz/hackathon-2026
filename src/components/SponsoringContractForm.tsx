@@ -1,5 +1,5 @@
 import React, { ChangeEvent, Dispatch, FC, SetStateAction, useId, useState } from "react"
-import "./SponsoringContactForm.scss"
+import "./SponsoringContactForm.css"
 
 type HandleChangeType = (
     setter: Dispatch<SetStateAction<string>>

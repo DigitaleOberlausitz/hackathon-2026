@@ -4,8 +4,8 @@ import { Navbar } from "./navbar/navbar"
 
 import "typeface-roboto-mono"
 
-import "./index.scss"
-import "./App.scss"
+import "./index.css"
+import "./App.css"
 
 export const Layout: FC<PropsWithChildren> = ({ children }) => (
     <div className="App">

@@ -3,7 +3,7 @@ import * as R from "ramda"
 import { HeadFC, PageProps } from "gatsby"
 import ReactMarkdown from "react-markdown"
 import { Layout } from "../components/layout"
-import "./sponsors.scss"
+import "./sponsors.css"
 
 type Sponsor = {
     /** used internally as identifier. Has to be unique */
@@ -129,7 +129,7 @@ zusammenbringen.
 Unsere Sponsoren unterstützen uns aktiv bei der Verwirklichung dieser Vision.
             `}
         />
-        
+
         <SponsorsOverview sponsors={sponsors} />
     </Layout>
 )

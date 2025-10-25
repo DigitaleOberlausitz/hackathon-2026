@@ -7,14 +7,14 @@
 .dark {
     background-color: var(--color-highlight-medium);
     color: var(--color-font-light);
+}
 
-    a {
-        color: var(--color-link-light);
+.dark a {
+    color: var(--color-link-light);
+}
 
-        &:hover {
-            color: var(--color-link-light-hover);
-        }
-    }
+.dark a:hover {
+    color: var(--color-link-light-hover);
 }
 
 .header {
@@ -23,24 +23,23 @@
 
 .title {
     text-align: center;
+}
 
-    p a {
-        text-decoration: underline;
-    }
+.title p a {
+    text-decoration: underline;
+}
 
-    a {
-        text-decoration: none;
-    }
+.title a {
+    text-decoration: none;
+}
 
-    #hackathon-logo {
-        height: 10em;
-    }
+.title #hackathon-logo {
+    height: 10em;
 }
 
 .content {
     background-color: var(--color-bg-content);
     flex-grow: 1;
-
     color: var(--color-font-dark);
     padding: var(--common-space);
 }

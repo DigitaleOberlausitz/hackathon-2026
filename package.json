@@ -25,7 +25,6 @@
         "gatsby": "^5.13.5",
         "gatsby-plugin-image": "^3.13.1",
         "gatsby-plugin-manifest": "^5.13.1",
-        "gatsby-plugin-sass": "^6.13.1",
         "gatsby-plugin-sharp": "^5.13.1",
         "gatsby-plugin-sitemap": "^6.13.1",
         "gatsby-remark-images": "^7.13.1",
@@ -36,7 +35,6 @@
         "react": "^18.3.1",
         "react-dom": "^18.3.1",
         "react-markdown": "^9.0.1",
-        "sass": "^1.77.2",
         "typeface-roboto-mono": "^1.1.13"
     },
     "devDependencies": {
@@ -49,5 +47,9 @@
         "pretty-quick": "^4.0.0",
         "typescript": "^5.4.5"
     },
-    "packageManager": "yarn@4.2.2"
+    "packageManager": "yarn@4.2.2",
+    "engines": {
+        "node": "^24.0.0",
+        "yarn": "^4.2.0"
+    }
 }

@@ -1,0 +1,27 @@
+.SponsoringContractForm {
+    display: grid;
+    grid-template-columns: 16rem 1fr;
+}
+
+.SponsoringContractForm div {
+    margin: 0.5rem;
+}
+
+.SponsoringContractForm .label {
+    text-align: right;
+}
+
+.SponsoringContractForm input,
+.SponsoringContractForm select,
+.SponsoringContractForm textarea {
+    width: 100%;
+}
+
+.SponsoringContractForm button {
+    padding: 0.5rem;
+}
+
+.SponsoringContractForm .ziszoshyfgonpumkyn {
+    position: absolute;
+    right: 10000px;
+}
