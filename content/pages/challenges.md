@@ -3,6 +3,8 @@ slug: challenges
 title: Challenges
 ---
 
+Das ist ein Platzhalter.
+
 Unser diesjähriger Hackathon stellt sich den aktuellen Herausforderungen städtischer Entwicklung und Nachhaltigkeit
 durch die Förderung des Prinzips "Open Data".
 
