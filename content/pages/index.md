@@ -3,31 +3,51 @@ slug: ""
 title: Home
 ---
 
-# Hackathon 2026 - Save the Date
+# Hackathon 30/ 31.05.2026 - Save the Date
 
-Vom **29.05.2026 bis 31.05.2026** findet die dritte Auflage unseres Hackathons in Görlitz statt.
+**Ein Hackathon ist nichts für Dich, weil ...**
 
-## Wo?
+>Du innovativ sein und echte, umsetzbare Ergebnisse erzielen willst – hast aber wenig Zeit und kein Umfeld?<
+[Idee? Keine Struktur? Keine Zeit?](#DesignThiking)
 
-[Stadtbibliothek Görlitz, Jochmannstraße 2-3, 02826 Görlitz](https://osm.org/go/0MjYKLBAw?node=3249335637)
+>Du Prozesse entwickeln willst, die Menschen das Leben wirklich erleichtern – statt immer nur Examples durchzuarbeiten und in Tech-Gebastel zu versickern?<
+[Klarer Fokus, echtes Nutzerfeedback, schnelle Modelle](#Prototyping) 
 
-## Wann?
+>Du zweifelst, ob du ohne Programmierkenntnisse zwischen IT-Profis überhaupt mithalten kannst – und fürchtest, dort unterzugehen?<
+[No Code? No Problem!](#VibeCoding)
 
-29.05.2026 bis 31.05.2026, Einlass ab 13:30 Uhr Eröffnung 29.05.2026 14:30 Uhr
-Weitere Details zum Ablauf folgen.
+>Du dich fragst, ob du in der Tech-Welt wirklich dazugehörst – und ob deine Stärken dort überhaupt gesehen werden?<
+*Verstehe zuerst das echte Problem*  → Design Thinking
 
-# Challenge
+**diese Zweifel Dich von Hackathons fern hielten? Genau dort setzen wir an...**
 
-Unser diesjähriger Hackathon stellt sich den aktuellen Herausforderungen städtischer Entwicklung und Nachhaltigkeit durch die Förderung des Prinzips "Open Data".
+##Design Thiking {#DesignThiking}
+bedeutet, eine Idee strukturiert und Schritt für Schritt so weiterzuentwickeln, dass am Ende eine Lösung entsteht, die Menschen wirklich hilft. Du startest damit, das Problem klar zu verstehen und die Bedürfnisse der Nutzer zu erkennen. Dann sammelst du verschiedene mögliche Ansätze, ohne sie direkt zu bewerten, und formst daraus erste klare Konzepte. Durch diesen Prozess entsteht eine durchdachte Grundlage, auf der du weiterarbeiten kannst.
 
-In den vergangenen Jahren ist das Thema des Klimawandels und der nachhaltigen Verwendung unserer Ressourcen sowie der Vermeidung von CO2 dauerpräsent in der Presse geworden. Waren es in den letzten Dekaden eher zentrale Organisationen, wie ein Weltklimarat oder große Organisationen wie Greenpeace oder andere Gruppen aus der Wissenschaft, die Veränderung bewirken wollten, so zeigen bspw. Klimastreiks durch Fridays for Future oder auch Gruppierungen wie die Letzte Generation, dass eigenes Engagement notwendig ist, um Veränderung zu bewirken. Auch wenn man sieht, dass auf Ebene des Landes, Europa oder global immer wieder Gelegenheiten verstreichen gelassen wurden, hinreichende Maßnahmen umzusetzen, so ist es unsere Möglichkeit, im Kleinen, lokal Veränderungen zu treiben und einen Teil dazu beizutragen — inspiriert von dem Projekt TRUST, das offen und unter Einbindung der Bürger an verschiedenen Themen zur Erreichung der Klimaneutralität arbeitet.
+##Prototyping {#Prototyping}
+baut genau darauf auf: Aus den entwickelten Konzepten machst du schnell einfache, greifbare Modelle deiner Idee. Diese Prototypen müssen nicht perfekt sein – sie sollen nur zeigen, wie etwas aussehen oder funktionieren könnte. Menschen können sie sofort ausprobieren, du bekommst direkt Feedback und erkennst schnell, was funktioniert und was geändert werden muss. So kommst du effizient zu einer Lösung, die wirklich passt.
+
+*Problem klar, Prozess konkret,* **Lösung sichtbar?**
+
+##Vibe Coding mit KI{#VibeCoding}
+bedeutet, dass du ohne Programmierkenntnisse etwas Digitales erschaffen kannst, indem du einfach deine Idee/ einen Prozess beschreibst. Du sagst der KI, was du dir vorstellst, und die KI schreibt Dir den passenden Code. Alles läuft in kleinen, verständlichen Schritten, die du sofort ausprobieren kannst. Wenn du etwas ändern willst, sagst du es einfach, und passt es gemeinsam mit der KI an. Du folgst dabei Deinem eigenen Plan und entscheidest, wohin es als Nächstes geht. Die KI ist Dein nie müde werdender Partner.
+
+**… denn es geht nicht nur darum, Technik zu nutzen oder einen funktionierenden Code zu schreiben, sondern um Strukturen aufzubrechen, sie ==neu zu denken==, so dass sie machbar und für jeden einsetzbar sind.**
+
+Deine/ Eure Mühe ist nicht umsonst …
+es gibt auch was zu gewinnen…
+(Platzhalter)
+
+Eigene Idee oder ein Thema, das Dich schon lange nevt? Super! Dann ist jetzt und [hier](/participate/) die Gelegenheit es systematisch anzupacken.
+
+[Zur Anmeldung](/participate/)
+
+Keine eigene Idee, aber Lust Mitzumachen?
+Hier Themen
 
 [Mehr zur Challenge ...](/challenges/)
+[Zur Anmeldung](/participate/)
 
-## Teilnahme
-
-Um uns die Planung für Verpflegung und Co. zu erleichtern, melde dich bitte so zeitig wie möglich an! Die Anmeldung ist bereits geöffnet!
-[Hier findest du mehr Infos zur Teilnahme und die Anmeldung!](/participate/)
 
 ## Newsletter
 

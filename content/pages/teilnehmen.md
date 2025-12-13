@@ -6,11 +6,38 @@ title: Teilnehmen
 # Teilnehmen
 
 Der Hackathon lebt von den Teilnehmenden und daher freuen wir uns auf euch. Damit wir alles sorgfältig planen können und
-genug Sensoren und Lebensmittel bereitstehen, bitten wir um eine zeitnahe, unverbindliche aber ernstgemeinte...
+genug Sensoren und Lebensmittel bereitstehen, bitten wir um eine zeitnahe, ernstgemeinte...
 
 - [Anmeldung über eveeno](https://eveeno.com/hackathon-goerlitz-2026)
+Name*, E-Mail*
+Ort*
+Tipps zur Anreise/ ggf. Parken (Checkbox)?
+eigenes Thema: (Texteingabe)
+oder Thema*: (Auswahl)
+Noch unentschlossen?
+
+Anmeldung zu den Workshops:
+- [ ] Design Thinking
+- [ ] Prototyping
+- [ ] Vibe Coding mit KI
+
+hast Du schon ein Team* ja/nein
+(Wenn ja, sollte sich auch jedes Deiner Teammitglideder hier anmelden)
+
+### Was hat dich zur Anmeldung bewegt? *(optional)*  
+*Mehrfachauswahl möglich (max. 2–3 Gründe)*
+
+- [ ] Idee da – aber keine Struktur & wenig Zeit  
+- [ ] Wirkung statt reiner Technik  
+- [ ] Digitale Ideen umsetzen – auch ohne Code  
+- [ ] Erst das Problem verstehen, dann Lösungen bauen  
+- [ ] Sonstiges: ______________________
+
+
 
 **Für die Teilnahme ist ein Mindestalter von 16 Jahren notwendig.**
+
+
 
 Technische Hinweise zur Erstellung und Einreichung von Challenge-Lösungen findest du
 unter [Technische Infos](/techinfo).
@@ -32,9 +59,7 @@ unter [Technische Infos](/techinfo).
 
 - **... ich nicht programmieren kann?**
 
-  Auch ohne Programmieren zu können, kannst Du einen tollen Beitrag leisten! Ein frischer Blick aus verschiedenen
-  Sichtweisen kann sogar dabei helfen, eine echt kreative und spannende Lösung zu finden. Denn bevor etwas
-  programmiert werden kann, muss ein Problem fachlich verstanden sein.
+  Gibt es vorab ein den Workshop [Vibe Coding mit KI](/index#vibecoding)
 
 - **... ich Hilfe bei einer Aufgabe benötige?**
 
@@ -55,7 +80,7 @@ unter [Technische Infos](/techinfo).
 
 - **... ist der Veranstaltungsort?**
 
-  Die Stadtbibliothek befindet sich auf der [Jochmannstraße 2-3](https://osm.org/go/0MjYKLBAw?node=3249335637).
+  Die GoBe/ Rabryka befindet sich auf der <!-- [Jochmannstraße 2-3](https://osm.org/go/0MjYKLBAw?node=3249335637) -->.
 
 - **... kann ich mein Gefährt abstellen?**
 
@@ -82,10 +107,12 @@ unter [Technische Infos](/techinfo).
 - **Gibt es vor Ort Internetzugang?**
 
   Ja, vor Ort wird es einen W-LAN-Zugang für alle geben.
+  
+- **Eigner Laptop ist wünschenswert, wir haben aber auch Rechner für Dich, wenn Du keinen laptop hast.**
 
-- **Zu welchen Zeiten findet der Hackathon statt??**
+<!-- **Zu welchen Zeiten findet der Hackathon statt??**
 
-  Der Hackathon findet von Freitag, den 29.05.2025 bis Sonntag, den 31.05.2026 statt.
+  Der Hackathon findet am Sonnabend/ Sonntag, den 30.05.2025/ 31.05.2026 statt.
 
     - Am Freitag startet der Hackathon 14:30 Uhr (Einlass ab 13:30 Uhr) und geht bis 22 Uhr.
     - Am Samstag sind wir von 8:30 Uhr bis 22 Uhr vor Ort.
@@ -94,4 +121,4 @@ unter [Technische Infos](/techinfo).
 - **Wann gibt es etwas zu Essen und Trinken?**
 
   Wir stellen euch Essen und Trinken zur Verfügung. Es wird Frühstück, warmes Mittagessen und Abendessen
-  geben. Dazwischen werden kleine Snacks und Obst bereitstehen.
+  geben. Dazwischen werden kleine Snacks und Obst bereitstehen. -->

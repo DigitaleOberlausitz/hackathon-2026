@@ -3,6 +3,46 @@ slug: what-is-a-hackathon
 title: Was ist ein Hackathon?
 ---
 
+#Organisation/ Ablauf
+
+Zeit ist ein rares Gut und damit ihr kein ganzes Wochende für den Hackathon verplanen müsst, aber dennoch gute Ergebnisse erzielen könnt,
+gibt es vorab einige kostenlose Workshops zur Vorbereitung:
+
+- **31.03.2026 Design Thinking Online oder Offline je nach Anmeldung**
+
+- **14.04.2026 Prototyping Online oder Offline je nach Anmeldung**
+
+- **28.04.2026 Vibe Coding Online**
+
+Ihr habt ein Thema in unserer Themenliste gefunden? Sehr gut, denn Verstehe zuerst das **echte** Problem
+
+- **am 12.05./ 19.05.2026 gibt es ein onboarding mit dem Themengeber**
+Hier könnt ihr Eure Fragen zu dem Thema stellen, die ihr für eure Lösung braucht.
+
+**==30./ 31.05.2026 Der Hackathon -Day==**
+Treffpunkt:
+Zeitplan:
+Start/ Begrüßung:
+Teamfindung - Arbeitsplatz
+Mittagspause
+
+Kaffeepause
+
+Lösungspräsentation:
+Pause für Jury
+Preisverleihung
+
+
+Bewertung der Ergebnisse:
+technisch machbar
+wirtschaftlich umsetzbar
+für Menschen nützlich
+adaptierbar vom Ideengeber
+
+Preise:
+
+
+
 # Was ist ein Hackathon?
 
 Hackathons sind Programmier-Wettbewerbe, wobei es verschiedene Varianten gibt.

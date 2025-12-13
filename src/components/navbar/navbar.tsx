@@ -10,7 +10,10 @@ export const Navbar: FC = () => (
                 <Link to="/">Allgemein</Link>
             </li>
             <li>
-                <Link to="/what-is-a-hackathon">Was ist ein Hackathon?</Link>
+                <Link to="/what-is-a-hackathon">Ablauf</Link>
+            </li>
+            <li>
+                <Link to="/participate">Anmelden</Link>
             </li>
             <li>
                 <Link to="/challenges">Challenge</Link>
@@ -27,7 +30,7 @@ export const Navbar: FC = () => (
                     <li>
                         <Link to="/challenge-gruenflaechen">Urban Gardening</Link>
                     </li>
-					<li>
+										<li>
                         <Link to="/challenge-eisenbahn">Eisenbahn</Link>
                     </li>
                 </ul>
@@ -47,9 +50,6 @@ export const Navbar: FC = () => (
                         <Link to="/sponsoring">Sponsor werden</Link>
                     </li>
                 </ul>
-            </li>
-            <li>
-                <Link to="/participate">Teilnehmen</Link>
             </li>
             <li>
                 <Link to="/support">Unterstützen</Link>
