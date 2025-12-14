@@ -7,13 +7,16 @@ title: Home
 
 **Ein Hackathon ist nichts für Dich, weil ...**
 
-&nbsp;&nbsp;→ Du innovativ sein und echte, umsetzbare Ergebnisse erzielen willst – hast aber wenig Zeit und kein Umfeld?
-[Idee? Keine Struktur? Keine Zeit?](#designthinking) 
-&nbsp;&nbsp;→ Du Prozesse entwickeln willst, die Menschen das Leben wirklich erleichtern – statt immer nur Examples durchzuarbeiten und in Tech-Gebastel zu versickern?
-[Klarer Fokus, echtes Nutzerfeedback, schnelle Modelle](#prototyping) 
-&nbsp;&nbsp;→ Du zweifelst, ob du ohne Programmierkenntnisse zwischen IT-Profis überhaupt mithalten kannst – und fürchtest, dort unterzugehen?
+&nbsp;&nbsp;&nbsp;&nbsp;→ Du innovativ sein und echte, umsetzbare Ergebnisse erzielen willst – hast aber wenig Zeit und kein Umfeld?
+[Idee? Keine Struktur? Keine Zeit?](#designthinking)<br><br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;→ Du Prozesse entwickeln willst, die Menschen das Leben wirklich erleichtern – statt immer nur Examples durchzuarbeiten und in Tech-Gebastel zu versickern?
+[Klarer Fokus, echtes Nutzerfeedback, schnelle Modelle](#prototyping)
+
+&nbsp;&nbsp;&nbsp;&nbsp;→ Du zweifelst, ob du ohne Programmierkenntnisse zwischen IT-Profis überhaupt mithalten kannst – und fürchtest, dort unterzugehen?
 [No Code? No Problem!](#VibeCoding)
-&nbsp;&nbsp;→ Du dich fragst, ob du in der Tech-Welt wirklich dazugehörst – und ob deine Stärken dort überhaupt gesehen werden?
+
+&nbsp;&nbsp;&nbsp;&nbsp;→ Du dich fragst, ob du in der Tech-Welt wirklich dazugehörst – und ob deine Stärken dort überhaupt gesehen werden?
 *Verstehe zuerst das echte Problem*  → Design Thinking
 
 **diese Zweifel Dich von Hackathons fern hielten? Genau dort setzen wir an...**
@@ -43,6 +46,7 @@ Keine eigene Idee, aber Lust Mitzumachen?
 Hier Themen
 
 [Mehr zur Challenge ...](/challenges/)
+
 [Zur Anmeldung](/participate/)
 
 
