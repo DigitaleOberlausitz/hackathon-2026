@@ -7,21 +7,22 @@ title: Home
 
 **Ein Hackathon ist nichts für Dich, weil ...**
 
->Du innovativ sein und echte, umsetzbare Ergebnisse erzielen willst – hast aber wenig Zeit und kein Umfeld?<
+Du innovativ sein und echte, umsetzbare Ergebnisse erzielen willst – hast aber wenig Zeit und kein Umfeld?
 [Idee? Keine Struktur? Keine Zeit?](#designthinking)
 
->Du Prozesse entwickeln willst, die Menschen das Leben wirklich erleichtern – statt immer nur Examples durchzuarbeiten und in Tech-Gebastel zu versickern?<
+Du Prozesse entwickeln willst, die Menschen das Leben wirklich erleichtern – statt immer nur Examples durchzuarbeiten und in Tech-Gebastel zu versickern?
 [Klarer Fokus, echtes Nutzerfeedback, schnelle Modelle](#Prototyping) 
 
->Du zweifelst, ob du ohne Programmierkenntnisse zwischen IT-Profis überhaupt mithalten kannst – und fürchtest, dort unterzugehen?<
+Du zweifelst, ob du ohne Programmierkenntnisse zwischen IT-Profis überhaupt mithalten kannst – und fürchtest, dort unterzugehen?
 [No Code? No Problem!](#VibeCoding)
 
->Du dich fragst, ob du in der Tech-Welt wirklich dazugehörst – und ob deine Stärken dort überhaupt gesehen werden?<
+Du dich fragst, ob du in der Tech-Welt wirklich dazugehörst – und ob deine Stärken dort überhaupt gesehen werden?
 *Verstehe zuerst das echte Problem*  → Design Thinking
 
 **diese Zweifel Dich von Hackathons fern hielten? Genau dort setzen wir an...**
 
-## Design Thinking {#designthinking}
+<a id="designthinking"></a>
+## Design Thinking
 bedeutet, eine Idee strukturiert und Schritt für Schritt so weiterzuentwickeln, dass am Ende eine Lösung entsteht, die Menschen wirklich hilft. Du startest damit, das Problem klar zu verstehen und die Bedürfnisse der Nutzer zu erkennen. Dann sammelst du verschiedene mögliche Ansätze, ohne sie direkt zu bewerten, und formst daraus erste klare Konzepte. Durch diesen Prozess entsteht eine durchdachte Grundlage, auf der du weiterarbeiten kannst.
 
 ##Prototyping {#Prototyping}
