@@ -8,18 +8,18 @@ title: Home
 ## Ein Hackathon ist nichts für Dich, weil ...
 
 &nbsp;&nbsp;&nbsp;&nbsp;→ Du innovativ sein und echte, umsetzbare Ergebnisse erzielen willst – hast aber wenig Zeit und kein Umfeld?<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Idee? Keine Struktur? Keine Zeit?](#designthinking)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Idee? Keine Struktur? Keine Zeit?](#designthinking)
 
 &nbsp;&nbsp;&nbsp;&nbsp;→ Du Prozesse entwickeln willst, die Menschen das Leben wirklich erleichtern – statt immer nur Examples durchzuarbeiten und in Tech-Gebastel zu versickern?<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Klarer Fokus, echtes Nutzerfeedback, schnelle Modelle](#prototyping)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Klarer Fokus, echtes Nutzerfeedback, schnelle Modelle](#prototyping)
 
 &nbsp;&nbsp;&nbsp;&nbsp;→ Du zweifelst, ob du ohne Programmierkenntnisse zwischen IT-Profis überhaupt mithalten kannst – und fürchtest, dort unterzugehen?<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[No Code? No Problem!](#VibeCoding)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[No Code? No Problem!](#VibeCoding)
 
 &nbsp;&nbsp;&nbsp;&nbsp;→ Du dich fragst, ob du in der Tech-Welt wirklich dazugehörst – und ob deine Stärken dort überhaupt gesehen werden?<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Verstehe zuerst das echte Problem*  → Design Thinking
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Verstehe zuerst das echte Problem*  → Design Thinking
 
-## ...diese Zweifel Dich von Hackathons fern hielten? Genau dort setzen wir an...
+## ... diese Zweifel Dich von Hackathons fern hielten? Genau dort setzen wir an ...
 <a id="designthinking"></a>
 ### Design Thinking
 bedeutet, eine Idee strukturiert und Schritt für Schritt so weiterzuentwickeln, dass am Ende eine Lösung entsteht, die Menschen wirklich hilft. Du startest damit, das Problem klar zu verstehen und die Bedürfnisse der Nutzer zu erkennen. Dann sammelst du verschiedene mögliche Ansätze, ohne sie direkt zu bewerten, und formst daraus erste klare Konzepte. Durch diesen Prozess entsteht eine durchdachte Grundlage, auf der du weiterarbeiten kannst.
@@ -32,17 +32,17 @@ baut genau darauf auf: Aus den entwickelten Konzepten machst du schnell einfache
 ### Vibe Coding mit KI
 bedeutet, dass du ohne Programmierkenntnisse etwas Digitales erschaffen kannst, indem du einfach deine Idee/ einen Prozess beschreibst. Du sagst der KI, was du dir vorstellst, und die KI schreibt Dir den passenden Code. Alles läuft in kleinen, verständlichen Schritten, die du sofort ausprobieren kannst. Wenn du etwas ändern willst, sagst du es einfach, und passt es gemeinsam mit der KI an. Du folgst dabei Deinem eigenen Plan und entscheidest, wohin es als Nächstes geht. Die KI ist Dein nie müde werdender Partner.
 
-## … denn es geht nicht nur darum, Technik zu nutzen oder einen funktionierenden Code zu schreiben, sondern um Strukturen aufzubrechen, sie <span style="font-color:#9400D3;">neu zu denken</span>, so dass sie machbar und für jeden einsetzbar sind.
+## … denn es geht nicht nur darum, Technik zu nutzen oder einen funktionierenden Code zu schreiben, sondern um Strukturen aufzubrechen, sie <span style="color:#9400D3;">neu zu denken</span>, so dass sie machbar und für jeden einsetzbar sind.
 
 Deine/ Eure Mühe ist nicht umsonst …
-es gibt auch was zu gewinnen…
+es gibt auch was zu gewinnen…<br>
 (Platzhalter)
 
 Eigene Idee oder ein Thema, das Dich schon lange nevt? Super! Dann ist jetzt und [hier](/participate/) die Gelegenheit es systematisch anzupacken.
 
 [Zur Anmeldung](/participate/)
 
-Keine eigene Idee, aber Lust Mitzumachen?
+Keine eigene Idee, aber Lust mitzumachen?
 Hier Themen
 
 [Mehr zur Challenge ...](/challenges/)
