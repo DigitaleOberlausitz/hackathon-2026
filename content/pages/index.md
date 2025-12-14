@@ -8,7 +8,7 @@ title: Home
 **Ein Hackathon ist nichts für Dich, weil ...**
 
 >Du innovativ sein und echte, umsetzbare Ergebnisse erzielen willst – hast aber wenig Zeit und kein Umfeld?<
-[Idee? Keine Struktur? Keine Zeit?](#DesignThiking)
+[Idee? Keine Struktur? Keine Zeit?](#designthinking)
 
 >Du Prozesse entwickeln willst, die Menschen das Leben wirklich erleichtern – statt immer nur Examples durchzuarbeiten und in Tech-Gebastel zu versickern?<
 [Klarer Fokus, echtes Nutzerfeedback, schnelle Modelle](#Prototyping) 
@@ -21,7 +21,7 @@ title: Home
 
 **diese Zweifel Dich von Hackathons fern hielten? Genau dort setzen wir an...**
 
-##Design Thiking {#DesignThiking}
+## Design Thinking {#designthinking}
 bedeutet, eine Idee strukturiert und Schritt für Schritt so weiterzuentwickeln, dass am Ende eine Lösung entsteht, die Menschen wirklich hilft. Du startest damit, das Problem klar zu verstehen und die Bedürfnisse der Nutzer zu erkennen. Dann sammelst du verschiedene mögliche Ansätze, ohne sie direkt zu bewerten, und formst daraus erste klare Konzepte. Durch diesen Prozess entsteht eine durchdachte Grundlage, auf der du weiterarbeiten kannst.
 
 ##Prototyping {#Prototyping}

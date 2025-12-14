@@ -12,9 +12,9 @@ gibt es vorab einige kostenlose Workshops zur Vorbereitung:
 
 - **14.04.2026 Prototyping Online oder Offline je nach Anmeldung**
 
-- **28.04.2026 Vibe Coding Online**
+- **28.04.2026 Vibe Coding mit KI Online**
 
-Ihr habt ein Thema in unserer Themenliste gefunden? Sehr gut, denn Verstehe zuerst das **echte** Problem
+Ihr habt ein Thema in unserer Themenliste gefunden?
 
 - **am 12.05./ 19.05.2026 gibt es ein onboarding mit dem Themengeber**
 Hier könnt ihr Eure Fragen zu dem Thema stellen, die ihr für eure Lösung braucht.
