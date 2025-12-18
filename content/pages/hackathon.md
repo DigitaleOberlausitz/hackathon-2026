@@ -3,7 +3,7 @@ slug: what-is-a-hackathon
 title: Was ist ein Hackathon?
 ---
 
-#Organisation/ Ablauf
+# Organisation/ Ablauf
 
 Zeit ist ein rares Gut und damit ihr kein ganzes Wochende für den Hackathon verplanen müsst, aber dennoch gute Ergebnisse erzielen könnt,
 gibt es vorab einige kostenlose Workshops zur Vorbereitung:
