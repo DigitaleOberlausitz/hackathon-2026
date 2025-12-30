@@ -75,6 +75,16 @@
     margin-right: 1rem;
 }
 
+
+ul, ol {
+  padding-left: 1.5em;   /* Platz für das Bullet */
+}
+
+li {
+  list-style-position: outside; /* Bullet bleibt links außerhalb des Textblocks */
+}
+
+
 /* mobile */
 @media screen and (max-width: 800px) {
     .App {

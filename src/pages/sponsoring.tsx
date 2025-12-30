@@ -20,10 +20,22 @@ const SponsoringPage: React.FC<PageProps> = () => {
 Die Teilnehmenden werden in kurzen Workshops mit Design Thinking, Prototyping und Vibe Coding mit KI vertraut gemacht. So entstehen schnell greifbare Ideen – auch ohne tiefere Programmierkenntnisse.
 Sie möchten den Hackathon 2026 unterstützen?
 
-##Sachsponsoring: Thema einbringen
-Als Themenpartner können Sie eine konkrete Fragestellung oder Herausforderung aus Ihrem Unternehmen einbringen. Die Teams bearbeiten diese praxisnah und anwendungsorientiert und liefern frische Perspektiven auf Prozesse oder Produkte. Am **12. oder 15.05.2026** bitten wir Sie, sich etwas Zeit für die Teilnehmenden zu nehmen, um ihnen Fragen zu dem Thema zu beantworten, die sie aufgrund der Workshops, die im Voraus stattfinden, haben werden.
+## Sachsponsoring: Ein Thema, das inspiriert
+Als Themenpartner können Sie eine konkrete Fragestellung oder Herausforderung aus Ihrem Unternehmen einbringen. 
+Für ein wirkungsvolles Hackathon‑Thema ist eine verständliche, menschlich orientierte Problemformulierung entscheidend. Unternehmen profitieren davon, ihr Thema so zu beschreiben, dass Teilnehmende den Kontext schnell erfassen und direkt in den kreativen Prozess einsteigen können.
+Die vier Leitlinien bieten dabei einen klaren Rahmen:
 
-##Finanzsponsoring: Hackathon ermöglichen
+1. Ein reales Problem beschreiben – keine technische Lösung vorgeben, sondern die tatsächliche Herausforderung sichtbar machen.
+2. Betroffene und Situationen benennen – kurz skizzieren, in welchem Umfeld das Problem auftritt und wen es betrifft.
+3. Darstellen, was heute nicht gut funktioniert – präzisieren, welche Schwierigkeiten, Hürden oder Unklarheiten bestehen.
+4. Gestaltungsspielraum lassen – das Thema nicht zu eng setzen, um unterschiedliche Perspektiven und neue Denkansätze zu ermöglichen.
+
+Eine so formulierte Problemstellung erleichtert den Einstieg in Design Thinking, Prototyping und Vibe Coding und schafft die Basis für vielfältige, innovative Lösungsansätze. Sie macht das Thema für Teilnehmende attraktiv und erhöht die Chance, dass im Hackathon konkrete, weiterverwendbare Ergebnisse entstehen.
+Die Teams bearbeiten diese praxisnah und anwendungsorientiert und liefern frische Perspektiven auf Prozesse oder Produkte.
+
+Am **12. oder 15.05.2026** bitten wir Sie, sich etwas Zeit für die Teilnehmenden zu nehmen, um ihnen Fragen zu dem Thema zu beantworten, die sie aufgrund der Workshops, die im Voraus stattfinden, haben werden.
+
+## Finanzsponsoring: Hackathon ermöglichen
 Mit einem finanziellen Beitrag unterstützen Sie die Durchführung des Hackathons, insbesondere Printwerbung und Catering am Veranstaltungstag.
 Dafür bieten wir Sponsoringpakete mit Sichtbarkeit:
 

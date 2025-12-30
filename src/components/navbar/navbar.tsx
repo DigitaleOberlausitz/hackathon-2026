@@ -15,8 +15,11 @@ export const Navbar: FC = () => (
             <li>
                 <Link to="/participate">Anmelden</Link>
             </li>
+			<li>
+			<Link to="/challenges-teilnehmer">Deine Challenge</Link>
+            </li>    
             <li>
-                <Link to="/challenges">Challenge</Link>
+				<Link to="/challenges">Challenge</Link>
                 <ul>
                     <li>
                         <Link to="/challenge-erfassung-dachflaechen">Dachflächen</Link>
@@ -25,13 +28,7 @@ export const Navbar: FC = () => (
                         <Link to="/challenge-reparatur-kultur">Reparatur-Kultur</Link>
                     </li>
                     <li>
-                        <Link to="/challenge-hitzeprobleme">Hitzeprobleme</Link>
-                    </li>
-                    <li>
                         <Link to="/challenge-gruenflaechen">Urban Gardening</Link>
-                    </li>
-										<li>
-                        <Link to="/challenge-eisenbahn">Eisenbahn</Link>
                     </li>
                 </ul>
             </li>
