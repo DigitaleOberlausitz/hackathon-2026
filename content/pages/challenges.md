@@ -27,14 +27,9 @@ Problemstellungen sind zum Beispiel:
 -   [Förderung der Reparaturkultur](/challenge-reparatur-kultur): Angesichts neuer gesetzlicher Regelungen zur
     Reparierbarkeit von Produkten müssen Städte eine Infrastruktur schaffen, die Wissen und Ressourcen für Reparaturen
     zugänglich macht. Es geht dabei um die Vernetzung von Reparaturexperten, Werkstätten und Privatpersonen.
--   [Identifizierung von Hitzeproblembereichen im Kontext der städtischen Wärmeplanung](/challenge-hitzeprobleme): Es
-    sind Wärmebilder zu analysieren, um überhitzte Zonen zu erkennen und gezielte Maßnahmen wie Begrünung oder
-    Entsiegelung zu planen. Diese Maßnahmen sind essenziell, um die Lebensqualität in urbanen Räumen zu verbessern und
-    die negativen Auswirkungen des Klimawandels zu mindern.
 -   [Identifizierung und Verwaltung potenzieller Grünflächen](/challenge-gruenflaechen): Grünflächen und
     Gemeinschaftsgärten bieten nicht nur Erholungsmöglichkeiten, sondern fördern auch die Gemeinschaft und unterstützen
     nachhaltige Praktiken wie Urban Gardening.
--   [Planung von Instandsetzungsmaßnahmen im ÖPNV](/challenge-eisenbahn): Instandsetzungsmaßnahmen insbesondere im Gleis- und Schienennetz sollen möglichst effektiv und kosteneffizient durchgeführt werden. Es sollen dafür neue Lösungsansätze untersucht bzw. Zusammenhänge verschiedener Maßnahmearten untersucht werden.
 
 Alle diese Problemgebiete haben gemein, dass sie auf Daten basieren, die erstens der Allgemeinheit zur Verfügung stehen
 sollten, woraus sich eine Umsetzung Bereitstellung der Lösungen mittels einer Infrastruktur, die Open Data gerecht wird,
