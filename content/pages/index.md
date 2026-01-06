@@ -5,21 +5,40 @@ title: Home
 
 # Hackathon 30/ 31.05.2026 - Save the Date
 
-## Ein Hackathon ist nichts für Dich, weil ...
+## Ein Hackathon ist genau das Richtige für dich, wenn …
 
-&nbsp;&nbsp;&nbsp;&nbsp;→ Du innovativ sein und echte, umsetzbare Ergebnisse erzielen willst – hast aber wenig Zeit und kein Umfeld?<br>
+&nbsp;&nbsp;&nbsp;&nbsp;→ … du echte, umsetzbare Ergebnisse willst – auch wenn dir im Alltag oft Zeit, Struktur oder das passende Umfeld fehlen.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Idee? Keine Struktur? Keine Zeit?](#designthinking)
 
-&nbsp;&nbsp;&nbsp;&nbsp;→ Du Prozesse entwickeln willst, die Menschen das Leben wirklich erleichtern – statt immer nur Examples durchzuarbeiten und in Tech-Gebastel zu versickern?<br>
+&nbsp;&nbsp;&nbsp;&nbsp;→ … du Lösungen entwickeln willst, die Menschen wirklich helfen, statt immer wieder an Demo-Cases oder isolierten Tech-Spielereien zu arbeiten.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Klarer Fokus, echtes Nutzerfeedback, schnelle Modelle](#prototyping)
 
-&nbsp;&nbsp;&nbsp;&nbsp;→ Du zweifelst, ob du ohne Programmierkenntnisse zwischen IT-Profis überhaupt mithalten kannst – und fürchtest, dort unterzugehen?<br>
+&nbsp;&nbsp;&nbsp;&nbsp;→ … du keine Programmierexpert:in bist, aber trotzdem etwas Digitales gestalten willst.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[No Code? No Problem!](#VibeCoding)
 
-&nbsp;&nbsp;&nbsp;&nbsp;→ Du dich fragst, ob du in der Tech-Welt wirklich dazugehörst – und ob deine Stärken dort überhaupt gesehen werden?<br>
+&nbsp;&nbsp;&nbsp;&nbsp;→ … du wissen willst, ob und wo du in der Tech-Welt deinen Platz hast – und wie deine Stärken dort wirksam werden können.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Verstehe zuerst das echte Problem*  → Design Thinking
 
-## ... diese Zweifel Dich von Hackathons fern hielten? Genau dort setzen wir an ...
+## Hier setzen wir an – gemeinsam, strukturiert und mit Blick auf Wirkung, ...
+
+---------------------------------------------------
+
+Ein Hackathon ist genau das Richtige für dich, wenn …
+&nbsp;&nbsp;&nbsp;&nbsp;→ … du spürst, dass mehr in deinen Ideen steckt, als im Alltag Platz findet.Zwischen Job, Studium, Familie oder Projektdruck bleibt vieles liegen – hier bekommt deine Idee Zeit, Struktur und Mitstreiter:innen.<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;→ … du nicht einfach irgendetwas bauen willst, sondern etwas Sinnvolles, das Menschen wirklich hilft. Keine Demo-Cases. Keine Spielwiesen.
+Sondern echte Probleme, echtes Feedback, sichtbare Lösungen.<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;→ … du dich schon gefragt hast, ob du hier überhaupt „reinpasst“ – weil du kein Hardcore-Tech-Profil hast oder anders denkst als klassische IT-Teams. Deine Perspektive fehlt genau dort, wo sonst nur Technik dominiert.<br>
+No Code? No Problem.
+
+&nbsp;&nbsp;&nbsp;&nbsp;→ … du Lust hast, mitzugestalten statt abzuarbeiten,zuzuhören, zu verbinden, zu strukturieren – und zu erleben, wie aus einer vagen Idee Schritt für Schritt etwas Greifbares wird.
+Design Thinking heißt: erst verstehen, dann bauen.<br>
+
+## Wenn dich genau diese Gedanken bisher von Hackathons ferngehalten haben,dann bist du hier nicht trotz, sondern wegen ihnen richtig.
+
+
+
 <a id="designthinking"></a>
 ### Design Thinking
 bedeutet, eine Idee strukturiert und Schritt für Schritt so weiterzuentwickeln, dass am Ende eine Lösung entsteht, die Menschen wirklich hilft. Du startest damit, das Problem klar zu verstehen und die Bedürfnisse der Nutzer zu erkennen. Dann sammelst du verschiedene mögliche Ansätze, ohne sie direkt zu bewerten, und formst daraus erste klare Konzepte. Durch diesen Prozess entsteht eine durchdachte Grundlage, auf der du weiterarbeiten kannst.
