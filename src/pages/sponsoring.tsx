@@ -33,6 +33,8 @@ Die vier Leitlinien bieten dabei einen klaren Rahmen:
 Eine so formulierte Problemstellung erleichtert den Einstieg in Design Thinking, Prototyping und Vibe Coding und schafft die Basis für vielfältige, innovative Lösungsansätze. Sie macht das Thema für Teilnehmende attraktiv und erhöht die Chance, dass im Hackathon konkrete, weiterverwendbare Ergebnisse entstehen.
 Die Teams bearbeiten diese praxisnah und anwendungsorientiert und liefern frische Perspektiven auf Prozesse oder Produkte.
 
+Angebot für Call zur Unterstützung.
+
 Am **12. oder 15.05.2026** bitten wir Sie, sich etwas Zeit für die Teilnehmenden zu nehmen, um ihnen Fragen zu dem Thema zu beantworten, die sie aufgrund der Workshops, die im Voraus stattfinden, haben werden.
 
 ## Finanzsponsoring: Hackathon ermöglichen

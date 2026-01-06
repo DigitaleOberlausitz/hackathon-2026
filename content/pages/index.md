@@ -23,7 +23,8 @@ title: Home
 
 ---------------------------------------------------
 
-Ein Hackathon ist genau das Richtige für dich, wenn …
+## Ein Hackathon ist genau das Richtige für dich, wenn …
+
 &nbsp;&nbsp;&nbsp;&nbsp;→ … du spürst, dass mehr in deinen Ideen steckt, als im Alltag Platz findet.Zwischen Job, Studium, Familie oder Projektdruck bleibt vieles liegen – hier bekommt deine Idee Zeit, Struktur und Mitstreiter:innen.<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;→ … du nicht einfach irgendetwas bauen willst, sondern etwas Sinnvolles, das Menschen wirklich hilft. Keine Demo-Cases. Keine Spielwiesen.
