@@ -7,16 +7,16 @@ title: Home
 
 ## Ein Hackathon ist genau das Richtige für dich, wenn …
 
-&nbsp;&nbsp;&nbsp;&nbsp;→ … du echte, umsetzbare Ergebnisse willst – auch wenn dir im Alltag oft Zeit, Struktur oder das passende Umfeld fehlen.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;→ IT-MA: Endlich mal wieder coden … du echte, umsetzbare Ergebnisse willst – auch wenn dir im Alltag oft Zeit, Struktur oder das passende Umfeld fehlen.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Idee? Keine Struktur? Keine Zeit?](#designthinking)
-
-&nbsp;&nbsp;&nbsp;&nbsp;→ … du Lösungen entwickeln willst, die Menschen wirklich helfen, statt immer wieder an Demo-Cases oder isolierten Tech-Spielereien zu arbeiten.<br>
+ 
+&nbsp;&nbsp;&nbsp;&nbsp;→ IT-Student: … du Lösungen entwickeln willst, die Menschen wirklich helfen, statt immer wieder an Demo-Cases oder isolierten Tech-Spielereien zu arbeiten.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Klarer Fokus, echtes Nutzerfeedback, schnelle Modelle](#prototyping)
-
-&nbsp;&nbsp;&nbsp;&nbsp;→ … du keine Programmierexpert:in bist, aber trotzdem etwas Digitales gestalten willst.<br>
+ 
+&nbsp;&nbsp;&nbsp;&nbsp;→ …Kreativ: Idee, aber an der Umsetzung scheiters. Kann nicht coden, braucht es aber um Idee umzusetzen. du keine Programmierexpert:in bist, aber trotzdem etwas Digitales gestalten willst.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[No Code? No Problem!](#VibeCoding)
-
-&nbsp;&nbsp;&nbsp;&nbsp;→ … du wissen willst, ob und wo du in der Tech-Welt deinen Platz hast – und wie deine Stärken dort wirksam werden können.<br>
+ 
+&nbsp;&nbsp;&nbsp;&nbsp;→ Techinteressierter: Über die Arbeitsjahre so viele Ideen und Prozessverbesserungen gesammelt, aber sie sind liegen geblieben, weil keine Zeit, wegen Familie, Arbeit etc. … du wissen willst, ob und wo du in der Tech-Welt deinen Platz hast – und wie deine Stärken dort wirksam werden können.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Verstehe zuerst das echte Problem*  → Design Thinking
 
 ## Hier setzen wir an – gemeinsam, strukturiert und mit Blick auf Wirkung, ...
