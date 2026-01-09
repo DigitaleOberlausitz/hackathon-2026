@@ -9,6 +9,8 @@ Der Hackathon lebt von den Teilnehmenden und daher freuen wir uns auf euch. Dami
 genug Sensoren und Lebensmittel bereitstehen, bitten wir um eine zeitnahe, ernstgemeinte...
 
 - [Anmeldung über eveeno](https://eveeno.com/hackathon-goerlitz-2026)
+Banner für Eveeno (1000 * 300 ideal)
+
 Name*, E-Mail*
 Ort*
 Tipps zur Anreise/ ggf. Parken (Checkbox)?
@@ -33,6 +35,13 @@ hast Du schon ein Team* ja/nein
 - [ ] Erst das Problem verstehen, dann Lösungen bauen  
 - [ ] Sonstiges: ______________________
 
+
+- [ ] Wie bist Du auf den Hackathon aufmerksam geworden?
+- [ ] Plakat/ Flyer
+- [ ] Social Media
+- [ ] Persönliche Empfehlung
+- [ ] E-Mail
+- [ ] Webseite Digitale Oberlausitz e.V.
 
 
 **Für die Teilnahme ist ein Mindestalter von 16 Jahren notwendig.**
