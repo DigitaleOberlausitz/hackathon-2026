@@ -7,38 +7,19 @@ title: Home
 
 ## Ein Hackathon ist genau das Richtige für dich, wenn …
 
-&nbsp;&nbsp;&nbsp;&nbsp;→ IT-MA: Endlich mal wieder coden … du echte, umsetzbare Ergebnisse willst – auch wenn dir im Alltag oft Zeit, Struktur oder das passende Umfeld fehlen.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Idee? Keine Struktur? Keine Zeit?](#designthinking)
+&nbsp;&nbsp;&nbsp;&nbsp;→ IT-MA: … du Informatik studiert hast, um zu coden – und nicht, um Meetings zu moderieren oder Folien zu basteln.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Endlich wieder Coden!](#designthinking)
  
-&nbsp;&nbsp;&nbsp;&nbsp;→ IT-Student: … du Lösungen entwickeln willst, die Menschen wirklich helfen, statt immer wieder an Demo-Cases oder isolierten Tech-Spielereien zu arbeiten.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;→ IT-Student: … du merkst, dass Lösungen ohne Nutzer keine Lösungen sind – und keine Lust mehr auf sauberen Code für schon erfundene Anwendungen hast.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Klarer Fokus, echtes Nutzerfeedback, schnelle Modelle](#prototyping)
  
-&nbsp;&nbsp;&nbsp;&nbsp;→ …Kreativ: Idee, aber an der Umsetzung scheiters. Kann nicht coden, braucht es aber um Idee umzusetzen. du keine Programmierexpert:in bist, aber trotzdem etwas Digitales gestalten willst.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;→ …Kreativ: … du starke Ideen hast, aber keine Lust mehr darauf, dass sie an fehlendem Code scheitern.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[No Code? No Problem!](#VibeCoding)
  
-&nbsp;&nbsp;&nbsp;&nbsp;→ Techinteressierter: Über die Arbeitsjahre so viele Ideen und Prozessverbesserungen gesammelt, aber sie sind liegen geblieben, weil keine Zeit, wegen Familie, Arbeit etc. … du wissen willst, ob und wo du in der Tech-Welt deinen Platz hast – und wie deine Stärken dort wirksam werden können.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;→ Techinteressierter: … du über Jahre Ideen und Prozessverbesserungen gesammelt hast, sie aber nie umgesetzt hast und nun merkst, dass genau diese Erfahrung vielen digitalen Lösungen fehlt.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Verstehe zuerst das echte Problem*  → Design Thinking
 
-## Hier setzen wir an – gemeinsam, strukturiert und mit Blick auf Wirkung, ...
-
----------------------------------------------------
-
-## Ein Hackathon ist genau das Richtige für dich, wenn …
-
-&nbsp;&nbsp;&nbsp;&nbsp;→ … du spürst, dass mehr in deinen Ideen steckt, als im Alltag Platz findet.Zwischen Job, Studium, Familie oder Projektdruck bleibt vieles liegen – hier bekommt deine Idee Zeit, Struktur und Mitstreiter:innen.<br>
-
-&nbsp;&nbsp;&nbsp;&nbsp;→ … du nicht einfach irgendetwas bauen willst, sondern etwas Sinnvolles, das Menschen wirklich hilft. Keine Demo-Cases. Keine Spielwiesen.
-Sondern echte Probleme, echtes Feedback, sichtbare Lösungen.<br>
-
-&nbsp;&nbsp;&nbsp;&nbsp;→ … du dich schon gefragt hast, ob du hier überhaupt „reinpasst“ – weil du kein Hardcore-Tech-Profil hast oder anders denkst als klassische IT-Teams. Deine Perspektive fehlt genau dort, wo sonst nur Technik dominiert.<br>
-No Code? No Problem.
-
-&nbsp;&nbsp;&nbsp;&nbsp;→ … du Lust hast, mitzugestalten statt abzuarbeiten,zuzuhören, zu verbinden, zu strukturieren – und zu erleben, wie aus einer vagen Idee Schritt für Schritt etwas Greifbares wird.
-Design Thinking heißt: erst verstehen, dann bauen.<br>
-
-## Wenn dich genau diese Gedanken bisher von Hackathons ferngehalten haben,dann bist du hier nicht trotz, sondern wegen ihnen richtig.
-
-
+## Genau hier setzen wir an – gemeinsam, strukturiert und mit Fokus auf Wirkung ...
 
 <a id="designthinking"></a>
 ### Design Thinking
@@ -52,7 +33,8 @@ baut genau darauf auf: Aus den entwickelten Konzepten machst du schnell einfache
 ### Vibe Coding mit KI
 bedeutet, dass du ohne Programmierkenntnisse etwas Digitales erschaffen kannst, indem du einfach deine Idee/ einen Prozess beschreibst. Du sagst der KI, was du dir vorstellst, und die KI schreibt Dir den passenden Code. Alles läuft in kleinen, verständlichen Schritten, die du sofort ausprobieren kannst. Wenn du etwas ändern willst, sagst du es einfach, und passt es gemeinsam mit der KI an. Du folgst dabei Deinem eigenen Plan und entscheidest, wohin es als Nächstes geht. Die KI ist Dein nie müde werdender Partner.
 
-## … denn es geht nicht nur darum, Technik zu nutzen oder einen funktionierenden Code zu schreiben, sondern um <span style="color:#9400D3;">Strukturen</span> aufzubrechen, sie <span style="color:#9400D3;">neu zu denken</span>, so dass sie machbar und für jeden einsetzbar sind.
+## … Denn echte Lösungen entstehen, wenn Prozesse neu gedacht werden – verständlich, machbar und für alle nutzbar.
+# Hackathon 2026 – Prozesse neu denken
 
 Deine/ Eure Mühe ist nicht umsonst …
 es gibt auch was zu gewinnen…<br>
