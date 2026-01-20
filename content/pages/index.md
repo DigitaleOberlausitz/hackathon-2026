@@ -33,7 +33,7 @@ baut genau darauf auf: Aus den entwickelten Konzepten machst du schnell einfache
 ### Vibe Coding mit KI
 bedeutet, dass du ohne Programmierkenntnisse etwas Digitales erschaffen kannst, indem du einfach deine Idee/ einen Prozess beschreibst. Du sagst der KI, was du dir vorstellst, und die KI schreibt Dir den passenden Code. Alles läuft in kleinen, verständlichen Schritten, die du sofort ausprobieren kannst. Wenn du etwas ändern willst, sagst du es einfach, und passt es gemeinsam mit der KI an. Du folgst dabei Deinem eigenen Plan und entscheidest, wohin es als Nächstes geht. Die KI ist Dein nie müde werdender Partner.
 
-## … Denn echte Lösungen entstehen, wenn Prozesse neu gedacht werden – verständlich, machbar und für alle nutzbar.
+## … denn echte Lösungen entstehen, wenn Prozesse neu gedacht werden – verständlich, machbar und für alle nutzbar.
 # Hackathon 2026 – Prozesse neu denken
 
 Deine/ Eure Mühe ist nicht umsonst …

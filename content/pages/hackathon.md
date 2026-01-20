@@ -8,7 +8,7 @@ title: Was ist ein Hackathon?
 Zeit ist ein rares Gut und damit ihr kein ganzes Wochende für den Hackathon verplanen müsst, aber dennoch gute Ergebnisse erzielen könnt,
 gibt es vorab einige kostenlose Workshops zur Vorbereitung:
 
-- **31.03.2026 Design Thinking Online oder Offline je nach Anmeldung**
+- **25.03.2026 Design Thinking Online oder Offline je nach Anmeldung**
 
 - **14.04.2026 Prototyping Online oder Offline je nach Anmeldung**
 
@@ -41,28 +41,33 @@ adaptierbar vom Ideengeber
 
 Preise:
 
+# Was ist ein Hackathon wie wir ihn verstehen?
 
+Ein Hackathon ist mehr als ein Programmier-Wettbewerb:
 
-# Was ist ein Hackathon?
+Er ist ein Arbeitsraum, in dem echte Probleme verstanden und in technische Lösungen überführt werden.
 
-Hackathons sind Programmier-Wettbewerbe, wobei es verschiedene Varianten gibt.
+Coding ist ein zentraler Teil – aber nicht losgelöst. Gute Software entsteht, wenn eine Idee ausprobiert, reflektiert und Schritt für Schritt geschärft wird.
+Beim Hackathon wählen Teams reale Challenges und arbeiten sie durch:
 
-Die Challenges sollten echte Problemstellungen sein, deren Lösung dem jeweiligen Challenge-Geber einen Nutzen bringt und
-idealerweise sogar darüber hinaus einen Mehrwert stiftet, beispielsweise hinsichtlich Nachhaltigkeit oder
-Digitalisierung. Die Teilnehmenden bilden Teams und suchen sich selbst die Challenge aus, an denen sie arbeiten möchten.
+→ Problem verstehen
+
+→ Stukturen neu denken
+
+→ Ideen skizzieren
+
+→ technisch umsetzen (klassischer Code, Low-Code, Prototypen)
 
 ## Ist "Hacken" nicht böse?
 
-Der Begriff "Hacken" wird unterschiedlich benutzt und hat insbesondere durch diverse Medienberichte eine negative
-Konnotation bekommen. Viele Leute denken bei "Hackern" an böswillige Computerfreaks, die mit schwarzem Hoodie vor einem
-Laptop sitzen und die Computer und Netzwerke anderer Leuten angreifen und ihnen Schaden zufügen.
+Viele verbinden „Hacken“ mit Einbrüchen in Systeme, schwarzen Hoodies und illegalen Aktivitäten – ein Bild, das Medien und Popkultur geprägt haben. 
+Tatsächlich hat der Begriff aber eine positive, schöpferische Bedeutung, wie sie z. B. der [Chaos Computer Club](https://www.ccc.de/de/hackerethics) beschreibt.
 
-Wir verstehen den Begriff "Hacken" aber in seiner ursprünglichen Form, wie ihn beispielsweise auch der
-[Chaos Computer Club](https://www.ccc.de/de/hackerethics) verwendet.
+In der Hackerethikheißt es unter anderem, dass man mit einem Computer Kunst und Schönheit schaffen kann und dass Computer dein Leben zum Besseren verändern können.
+Für uns bedeutet Hacken nicht Zerstörung, sondernkreativen, verantwortungsvollen Umgang mit Technik: 
 
-> In seiner ursprünglichen Verwendung bezieht sich der Begriff auf Tüftler im Kontext einer verspielten, selbst
-> bezogenen Hingabe im Umgang mit Technik und einem besonderen Sinn für Kreativität und Originalität
+Hacken bedeutet für uns, Dinge verstehen und weiter oder neu zudenken, bis daraus etwas entsteht, das Menschen wirklich hilft.
 
-[wikipedia](https://de.wikipedia.org/wiki/Hacker)
+
 
 **Genau dieser kreative Umgang mit Technik ist auch beim Hackathon gefragt.**
