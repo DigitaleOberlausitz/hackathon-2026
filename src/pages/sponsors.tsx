@@ -23,54 +23,10 @@ type Sponsor = {
 
 const sponsors: Record<"gold" | "silver" | "bronze", Array<Sponsor>> = {
     gold: [
-        {
-            id: "sednasoft",
-            label: "SednaSoft",
-            linkTarget: "https://sedna-soft.de/",
-            logoImgPath: "/logo_sednasoft.svg",
-            greetingText: "Wir unterstützen dieses Format sehr gern, weil es mithilft, Görlitz als Hochschul- und IT-Standort sichtbarer zu machen. Danke an Digitale Oberlausitz und an alle Teilnehmenden, die sich dieses Jahr wieder mit spannenden Beiträgen einbringen!",
-        },
-        {
-            id: "zeiss",
-            label: "ZEISS Digital Innovation",
-            linkTarget: "https://www.zeiss.de/digital-innovation",
-            logoImgPath: "/logo_zeiss.svg",
-            // adjust styling so that the ZEISS logo looks similar in size compared to other logos
-            logoCss: {
-                maxWidth: "500px",
-                maxHeight: "500px",
-                height: "200px",
-                width: "200px",
-            },
-            greetingText: `Als Fördermitglied des Digitale Oberlausitz e. V. wünschen wir allen IT-begeisterten Teilnehmenden viel Spaß und einen spannenden Austausch beim diesjährigen Hackathon! Viel Erfolg wünscht euer #teamZEISS.`,
-        },
     ],
-    silver: [],
+    silver: [
+    ],
     bronze: [
-        {
-            id: "swz",
-            label: "Stadtwerke Zittau GmbH",
-            linkTarget: "https://www.stadtwerke-zittau.de/",
-            logoImgPath: "/logo_swz.png",
-            logoCss: {
-                maxHeight: "500px",
-                height: "150px",
-                background: "white",
-            },
-        },
-        {
-            id: "ult",
-            label: "ULT AG",
-            linkTarget: "https://www.ult.de/",
-            logoImgPath: "/logo_ult.png",
-            logoCss: {
-                maxWidth: "500px",
-                maxHeight: "500px",
-                height: "200px",
-                width: "200px",
-                background: "white",
-            },
-        },
     ],
 }
 
