@@ -85,6 +85,28 @@ li {
 }
 
 
+.button {
+  background-color: rgba(240, 189, 216, 1);
+  color: #000;
+  border: 2px solid rgba(240, 189, 216, 1);
+  padding: 10px 18px;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 0; /* eckig */
+  transition: background-color 0.2s ease, transform 0.1s ease;
+}
+
+.button:hover {
+  background-color: rgba(240, 189, 216, 0.85);
+}
+
+.button:active {
+  background-color: rgba(240, 189, 216, 0.7);
+  transform: scale(0.97);
+}
+
+
+
 /* mobile */
 @media screen and (max-width: 800px) {
     .App {
