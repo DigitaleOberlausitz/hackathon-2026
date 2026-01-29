@@ -32,7 +32,7 @@ baut genau darauf auf: Aus den entwickelten Konzepten machst du schnell einfache
 
 *Problem klar, Prozess konkret,* ***Lösung sichtbar?***
 <a id="VibeCoding"></a>
-### Vibe Coding for no Coders - 28. April 2026
+### Vibe Coding for non-coders - 28. April 2026
 bedeutet, dass du ohne Programmierkenntnisse etwas Digitales erschaffen kannst, indem du einfach deine Idee/ einen Prozess beschreibst. Du sagst der KI, was du dir vorstellst, und die KI schreibt Dir den passenden Code. Alles läuft in kleinen, verständlichen Schritten, die du sofort ausprobieren kannst. Wenn du etwas ändern willst, sagst du es einfach, und passt es gemeinsam mit der KI an. Du folgst dabei Deinem eigenen Plan und entscheidest, wohin es als Nächstes geht. Die KI ist Dein nie müde werdender Partner.
 
 ### … denn echte Lösungen entstehen, wenn Prozesse neu gedacht werden – verständlich, machbar und für alle nutzbar sind.
@@ -42,11 +42,16 @@ bedeutet, dass du ohne Programmierkenntnisse etwas Digitales erschaffen kannst, 
 *Super!* Dann ist jetzt und [hier]Anmeldebutton(/participate/) die Gelegenheit es systematisch anzupacken.
 Die besten Lösungen entstehen, wenn man mit anderen darüber spricht. Damit andere dein Thema gut verstehen und Lust haben, mitzudenken, gibt es [hier](/challenges-teilnehmer/) eine kleine Orientierung, es greifbar zu machen. 
 
-<button >[Zur Anmeldung](/participate/)</button>
-
+<button >[Zur Anmeldung](/participate/)</button><br>
+*Der Hackathon lebt von den Teilnehmenden und daher freuen wir uns auf euch. Damit wir alles sorgfältig planen können und
+genug Equipment und Buffet bereitstehen, bitten wir um eine zeitnahe, ernstgemeinte...*<br>
+**Für die Teilnahme ist ein Mindestalter von 16 Jahren notwendig.**
 
 **Keine eigene Idee, aber Lust mitzumachen?**<br>
 Wir haben ein paar Themen aktuellen Herausforderungen, städtischer Entwicklung und Nachhaltigkeit.
+- Erfassung Dachflächen
+- Förderung der Reparaturkultur
+- Identifizierung und Verwaltung potenzieller Grünflächen
 
 [Mehr zur Challenge ...](/challenges/)
 
