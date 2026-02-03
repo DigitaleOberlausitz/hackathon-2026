@@ -42,7 +42,10 @@ bedeutet, dass du ohne Programmierkenntnisse etwas Digitales erschaffen kannst, 
 *Super!* Dann ist jetzt und [hier]Anmeldebutton(/participate/) die Gelegenheit es systematisch anzupacken.
 Die besten Lösungen entstehen, wenn man mit anderen darüber spricht. Damit andere dein Thema gut verstehen und Lust haben, mitzudenken, gibt es [hier](/challenges-teilnehmer/) eine kleine Orientierung, es greifbar zu machen. 
 
-<button >[Zur Anmeldung](/participate/)</button><br>
+
+<a href="/participate" class="special-link">Zur Anmeldung</a>
+
+<br>
 *Der Hackathon lebt von den Teilnehmenden und daher freuen wir uns auf euch. Damit wir alles sorgfältig planen können und
 genug Equipment und Buffet bereitstehen, bitten wir um eine zeitnahe, ernstgemeinte...*<br>
 **Für die Teilnahme ist ein Mindestalter von 16 Jahren notwendig.**

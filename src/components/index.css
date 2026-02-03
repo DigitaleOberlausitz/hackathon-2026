@@ -80,3 +80,9 @@ h6 {
     background-color: rgba(178, 216, 234, 0.7);
     transform: scale(0.97);
 }
+
+.special-link {
+    font-weight: bold;
+    color: pink;
+    
+}
