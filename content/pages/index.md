@@ -21,7 +21,7 @@ title: Home
 
 ### Genau hier setzen wir an – gemeinsam, strukturiert und mit Fokus auf Wirkung ...
 
-## Optinales Warm up zum Hackathon 2026 voraus
+## Optionales Warm up zum Hackathon 2026 voraus
 
 <a id="designthinking"></a>
 ### Design Thinking - 25. März 2026
