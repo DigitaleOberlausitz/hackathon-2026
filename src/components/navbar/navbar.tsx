@@ -10,15 +10,12 @@ export const Navbar: FC = () => (
                 <Link to="/">Allgemein</Link>
             </li>
             <li>
-                <Link to="/what-is-a-hackathon">Ablauf</Link>
-            </li>
-            <li>
-                <Link to="/participate" className="special-link">Anmelden</Link>
+				<a  style={{background: 'var(--color-highlight-medium)', color: 'var(--color-font-light)', display: 'inline-block', height: 'auto', lineHeight: 2}} href="https://eveeno.com/hackathon2026" target="_blank"   rel="noopener noreferrer" aria-label="Anmelden (öffnet in neuem Tab)">Anmelden</a>
+			</li>
+			<li>
+				<Link to="/challenges-teilnehmer">Deine Challenge</Link>
             </li>
 			<li>
-			<Link to="/challenges-teilnehmer">Deine Challenge</Link>
-            </li>
-            <li>
 				<Link to="/challenges">Challenge</Link>
                 <ul>
                     <li>
@@ -32,6 +29,13 @@ export const Navbar: FC = () => (
                     </li>
                 </ul>
             </li>
+			<li>
+				<Link to="/ablauf">Ablauf</Link>
+            </li>
+			<li>
+                <Link to="/what-is-a-hackathon">Was ist ein Hackathon?</Link>
+            </li>  			
+           
             {/*<li>*/}
             {/*    <Link to="/results">*/}
             {/*        <strong>Ergebnisse</strong>*/}

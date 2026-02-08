@@ -15,10 +15,24 @@
 }
 
 .navbar a {
-    display: block;
+/*  display: block;
     height: 2em;
-    font-size: 1.2em;
+    font-size: 1.2em; */
+	
+	display: flex;
+	align-items: center;        /* vertikal zentrieren */
+	justify-content: flex-start;/* horizontal linksbündig */
+	height: 2em;
+	font-size: 1.2em;
+	padding: 0 0.5rem;          /* links/rechts 0.5rem */
 }
+
+/* .special-link
+Specificity: (0,1,0)
+ {
+  font-weight: bold;
+  background: pink;
+} */
 
 .navbar li > p {
     margin-top: 0;

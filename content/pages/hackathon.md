@@ -3,22 +3,24 @@ slug: what-is-a-hackathon
 title: Was ist ein Hackathon?
 ---
 
-# Ablauf
+# Was ist ein Hackathon wie wir ihn verstehen?
 
-Für alle, die gestalten wollen, sich aber unsicher sind, ob Wissen oder Erfahrung ausreichen, bieten wir nachfolgend einige kostenfreie
-Workshops an. Damit wir planen können, bitten wir um Anmeldung über den Anmeldebutton im Menü.
+Ein Hackathon ist mehr als ein Programmier-Wettbewerb:
 
-- **25.03.2026 von 16:00 bis 19:00 Uhr - Design Thinking - Online oder Offline je nach Anmeldung**
+Er ist ein Arbeitsraum, in dem echte Probleme verstanden und in technische Lösungen überführt werden.
+Coding ist ein zentraler Teil – aber nicht losgelöst. Gute Software entsteht, wenn eine Idee ausprobiert, reflektiert und Schritt für Schritt geschärft wird.
+Beim Hackathon wählen Teams reale Challenges und arbeiten sie durch:
 
-- **14.04.2026 von 16:00 bis 19:00 Uhr - Prototyping - Online oder Offline je nach Anmeldung**
+→ Problem verstehen
+→ Stukturen neu denken
+→ Ideen skizzieren
+→ technisch umsetzen (klassischer Code, Low-Code, Prototypen)
 
-- **28.04.2026 von 16:00 bis 19:00 Uhr - Vibe Coding for No-Coders - Online**
 
-Ihr habt ein Thema in unserer Themenliste gefunden?
-- **am 12.05./ 19.05.2026 gibt es ein onboarding mit dem Themengeber**
-Hier könnt ihr Eure Fragen zu dem Thema an die Themengeber stellen und gegebenenfalls schon gelerntes aus den Workshops anwenden.
+# Hacken vs. Cracken
 
-**==30. und 31.05.2026 Der Hackathon==**
-
+Viele verbinden Hacken mit illegalen Systemeingriffen – ein Bild, das vor allem durch Medien geprägt wurde. Ursprünglich steht Hacken jedoch für Neugier, Kreativität und verantwortungsvollen Umgang mit Technik, wie ihn unter anderem der Chaos Computer Club vertritt.
+Hacker:innen wollen verstehen, verbessern und Neues schaffen. Sie teilen Wissen, denken Systeme weiter und nutzen Technologie, um echten Mehrwert zu erzeugen. Dieses Ideal ist klar abzugrenzen von Crackern, die Technik missbrauchen, um Schaden zu verursachen oder sich unbefugt Vorteile zu verschaffen.
+Für uns bedeutet Hacken: verstehen, weiterdenken und Lösungen entwickeln, die Menschen helfen. 
 
 

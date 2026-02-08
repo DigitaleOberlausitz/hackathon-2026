@@ -43,7 +43,15 @@ bedeutet, dass du ohne Programmierkenntnisse etwas Digitales erschaffen kannst, 
 Die besten Lösungen entstehen, wenn man mit anderen darüber spricht. Damit andere dein Thema gut verstehen und Lust haben, mitzudenken, gibt es [hier](/challenges-teilnehmer/) eine kleine Orientierung, es greifbar zu machen. 
 
 
-<a href="/participate" class="special-link">Zur Anmeldung</a>
+<a href="https://eveeno.com/hackathon2026" target="_blank" aria-label="Anmelden (öffnet in neuem Tab)"
+   style="background: var(--color-highlight-medium);
+          color: var(--color-font-light);
+          display: inline-block;
+          height: auto;
+          line-height: 2;
+		  padding: 0 0.5rem">
+  Anmelden
+</a>
 
 <br>
 *Der Hackathon lebt von den Teilnehmenden und daher freuen wir uns auf euch. Damit wir alles sorgfältig planen können und
