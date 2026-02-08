@@ -28,3 +28,13 @@ Zusatz:
 * Datenvisualisierung: Erstellen einer interaktiven Karte, die zeigt, welche Dächer bereits Solaranlagen haben und welche potenziell geeignet sind.
 * Empfehlungen: Bereitstellung von Empfehlungen und Berechnungen zur potenziellen Energieerzeugung und Kosten-Nutzen-Analyse für Eigentümer geeigneter Dächer.
 * Integration mit städtischen Planungsdaten: Verknüpfung mit vorhandenen städtischen Datenbanken, um Eigentümer und Verwalter von Gebäuden zu informieren und die Genehmigungsprozesse zu unterstützen.
+
+<a href="https://eveeno.com/hackathon2026" target="_blank" aria-label="Anmelden (öffnet in neuem Tab)"
+   style="background: var(--color-highlight-medium);
+          color: var(--color-font-light);
+          display: inline-block;
+          height: auto;
+          line-height: 2;
+		  padding: 0 0.5rem">
+  Anmelden
+</a>

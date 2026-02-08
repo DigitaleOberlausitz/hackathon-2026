@@ -60,9 +60,12 @@ genug Equipment und Buffet bereitstehen, bitten wir um eine zeitnahe, ernstgemei
 
 **Keine eigene Idee, aber Lust mitzumachen?**<br>
 Wir haben ein paar Themen aktuellen Herausforderungen, städtischer Entwicklung und Nachhaltigkeit.
-- Erfassung Dachflächen
-- Förderung der Reparaturkultur
-- Identifizierung und Verwaltung potenzieller Grünflächen
+- [Erfassung Dachflächen](/challenge-erfassung-dachflaechen/)
+- [Förderung der Reparaturkultur](/challenge-reparatur-kultur/)
+- [Identifizierung und Verwaltung potenzieller Grünflächen](/challenge-gruenflaechen/)
+<!-- - [Erfassung Dachflächen](/challenges#Dachflaechen)
+- [Förderung der Reparaturkultur](/challenges#Reparaturkultur)
+- [Identifizierung und Verwaltung potenzieller Grünflächen](/challenges#Gruenflaechen)-->
 
 [Mehr zur Challenge ...](/challenges/)
 

@@ -30,5 +30,14 @@ Das Projekt könnte umfassen:
 
 Wesentlich für die Lösung ist, dass eine Speicherung weiterer Informationen aus der App heraus nach dem Open-Data-Prinzip geschehen sollten. Da Open Street Map als Datenquelle hier genannt ist, wäre also eine Speicherung in diesen Karten mit geeigenten Tags denkbar.
 
+<a href="https://eveeno.com/hackathon2026" target="_blank" aria-label="Anmelden (öffnet in neuem Tab)"
+   style="background: var(--color-highlight-medium);
+          color: var(--color-font-light);
+          display: inline-block;
+          height: auto;
+          line-height: 2;
+		  padding: 0 0.5rem">
+  Anmelden
+</a>
 
 

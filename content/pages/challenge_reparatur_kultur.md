@@ -25,3 +25,13 @@ Auf dieser Infrastruktur basierend könnte nun eine UI gebaut werden, die die Ka
 Dies könnte der Hauptanwendungsfall sein, jedoch gibt es noch weitere Themen, die mit dieser App ergänzend unterstützt werden könnten:
 * Aufzeigen, in welchen Regionen oder Städten noch nicht ausreichend Angebote zur Verfügung stehen (Input für politisches Handeln)
 * Einpflege von neuen Angeboten (auch durch Privatpersonen) unterstützen
+
+<a href="https://eveeno.com/hackathon2026" target="_blank" aria-label="Anmelden (öffnet in neuem Tab)"
+   style="background: var(--color-highlight-medium);
+          color: var(--color-font-light);
+          display: inline-block;
+          height: auto;
+          line-height: 2;
+		  padding: 0 0.5rem">
+  Anmelden
+</a>
