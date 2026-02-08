@@ -18,15 +18,15 @@ offen und unter Einbindung der Bürger an verschiedenen Themen zur Erreichung de
 
 Problemstellungen sind zum Beispiel:
 
--   [Automatisierte Erfassung von Dächern zur Nutzung von Solaranlagen](#Dachflaechen): Es sind
+-   [Automatisierte Erfassung von Dächern zur Nutzung von Solaranlagen](/challenge-erfassung-dachflaechen/)<!--(#Dachflaechen)-->: Es sind
     nicht nur bestehende Solaranlagen zu erkennen, sondern auch potenzielle Flächen für neue Installationen zu
     identifizieren. Dies erfordert eine präzise Analyse von Dachflächen hinsichtlich ihrer Eignung für Solaranlagen.
--   [Förderung der Reparaturkultur](#Reparaturkultur): Angesichts neuer gesetzlicher Regelungen zur
+-   [Förderung der Reparaturkultur](/challenge-reparatur-kultur/)<!--(#Reparaturkultur)-->: Angesichts neuer gesetzlicher Regelungen zur
     Reparierbarkeit von Produkten müssen Städte eine Infrastruktur schaffen, die Wissen und Ressourcen für Reparaturen
     zugänglich macht. Es geht dabei um die Vernetzung von Reparaturexperten, Werkstätten und Privatpersonen.
--   [Identifizierung und Verwaltung potenzieller Grünflächen](#Gruenflaechen): Grünflächen und
+-   [Identifizierung und Verwaltung potenzieller Grünflächen](/challenge-gruenflaechen/)<!--(#Gruenflaechen)-->: Grünflächen und
     Gemeinschaftsgärten bieten nicht nur Erholungsmöglichkeiten, sondern fördern auch die Gemeinschaft und unterstützen
-    nachhaltige Praktiken wie Urban Gardening.(/challenge-gruenflaechen)
+    nachhaltige Praktiken wie Urban Gardening.
 
 Alle diese Problemgebiete haben gemein, dass sie auf Daten basieren, die erstens der Allgemeinheit zur Verfügung stehen
 sollten, woraus sich eine Umsetzung Bereitstellung der Lösungen mittels einer Infrastruktur, die Open Data gerecht wird,
