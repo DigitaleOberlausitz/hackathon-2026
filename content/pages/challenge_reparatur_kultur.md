@@ -34,4 +34,6 @@ Dies könnte der Hauptanwendungsfall sein, jedoch gibt es noch weitere Themen, d
           line-height: 2;
 		  padding: 0 0.5rem">
   Anmelden
+</a> </a> <a href="/Teilnahmebedingungen.pdf" target="_blank" rel="noopener noreferrer" aria-label="Teilnahmebedingungen (öffnet in neuem Tab)">
+  Teilnahmebedingungen
 </a>

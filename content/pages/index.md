@@ -51,7 +51,10 @@ Die besten Lösungen entstehen, wenn man mit anderen darüber spricht. Damit and
           line-height: 2;
 		  padding: 0 0.5rem">
   Anmelden
+</a> <a href="/Teilnahmebedingungen.pdf" target="_blank" rel="noopener noreferrer" aria-label="Teilnahmebedingungen (öffnet in neuem Tab)">
+  Teilnahmebedingungen
 </a>
+
 
 <br>
 *Der Hackathon lebt von den Teilnehmenden und daher freuen wir uns auf euch. Damit wir alles sorgfältig planen können und

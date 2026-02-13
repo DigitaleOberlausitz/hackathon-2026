@@ -55,6 +55,9 @@ export const Navbar: FC = () => (
             <li>
                 <Link to="/support">Unterstützen</Link>
             </li>
+			{/* <li>
+				[Teilnahmebedingungen](/Teilnahmebedingungen.pdf)
+			</li> */}
         </ul>
         <div className="archive">
             <p>Archiv</p>
