@@ -20,5 +20,4 @@ Hier könnt ihr Eure Fragen zu dem Thema an die Themengeber stellen und gegebene
 
 **==30. und 31.05.2026 Der Hackathon==**
 
-
-
+Ein genauer Ablaufplan wird alsbaldmöglich an dieser Stelle ergänzt.
