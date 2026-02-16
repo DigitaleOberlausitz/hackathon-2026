@@ -54,12 +54,10 @@ Die besten Lösungen entstehen, wenn man mit anderen darüber spricht. Damit and
 </a> <a href="/Teilnahmebedingungen.pdf" target="_blank" rel="noopener noreferrer" aria-label="Teilnahmebedingungen (öffnet in neuem Tab)">
   Teilnahmebedingungen
 </a>
-
-
 <br>
 *Der Hackathon lebt von den Teilnehmenden und daher freuen wir uns auf euch. Damit wir alles sorgfältig planen können und
-genug Equipment und Buffet bereitstehen, bitten wir um eine zeitnahe, ernstgemeinte...*<br>
-**Für die Teilnahme ist ein Mindestalter von 16 Jahren notwendig.**
+genug Equipment und Buffet bereitstehen, bitten wir um eine **zeitnahe, ernstgemeinte Anmeldung**.*<br>
+***Für die Teilnahme ist ein Mindestalter von 16 Jahren notwendig.***
 
 **Keine eigene Idee, aber Lust mitzumachen?**<br>
 Wir haben ein paar Themen aktuellen Herausforderungen, städtischer Entwicklung und Nachhaltigkeit.

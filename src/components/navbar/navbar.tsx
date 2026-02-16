@@ -47,6 +47,9 @@ export const Navbar: FC = () => (
                     <li>
                         <Link to="/sponsors">Unsere Sponsoren</Link>
                     </li>
+					<li>
+                        <Link to="/unternehmensthemen">Themen aus der Praxis</Link>
+                    </li>
                     <li>
                         <Link to="/sponsoring">Sponsor werden</Link>
                     </li>
