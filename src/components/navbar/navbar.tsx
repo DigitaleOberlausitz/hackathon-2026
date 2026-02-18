@@ -34,7 +34,10 @@ export const Navbar: FC = () => (
             </li>
 			<li>
                 <Link to="/what-is-a-hackathon">Was ist ein Hackathon?</Link>
-            </li>  			
+            </li>
+			<li>
+                <Link to="/faq">FAQ</Link>
+            </li> 
            
             {/*<li>*/}
             {/*    <Link to="/results">*/}

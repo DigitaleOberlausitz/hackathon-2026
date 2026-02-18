@@ -23,8 +23,32 @@ type Sponsor = {
 
 const sponsors: Record<"gold" | "silver" | "bronze", Array<Sponsor>> = {
     gold: [
+		{
+            id: "sponsor-1",
+            label: "Carl Zeiss AG",
+            linkTarget: "https://www.zeiss.de/corporate/home.html",
+            logoImgPath: "/logo_zeiss.svg"
+        },{
+            id: "sponsor-2",
+            label: "SednaSoft Anja Schaffhirt",
+            linkTarget: "https://sedna-soft.de/",
+            logoImgPath: "/logo_sednasoft.svg"
+        }
+
     ],
     silver: [
+		{
+            id: "sponsor-3",
+            label: "Brewes GmbH",
+            linkTarget: "https://www.brewes.de",
+			//logoImgPath: "/path1.svg"
+			logoImgPath: "/Brewes_rot_slogan1.svg"
+        },{
+            id: "sponsor-4",
+            label: "GO BE - DIE Transformations-Werkstatt für die Lausitz",
+            linkTarget: "https://go-be-goerlitz.de",
+            logoImgPath: "/GOBE-Logo.svg"
+        }
     ],
     bronze: [
     ],
