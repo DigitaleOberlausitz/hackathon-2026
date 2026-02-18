@@ -48,36 +48,64 @@
         }
       }
     })
-  </script><title data-gatsby-head="true">Challenge: Erfassung Dachflächen</title></head><body><div id="___gatsby"><div style="outline:none" tabindex="-1" id="gatsby-focus-wrapper"><div class="App"><div class="header dark"><div class="title"><p><a href="https://www.digitale-oberlausitz.eu">Digitale Oberlausitz e.V.</a> präsentiert:</p><a href="/"><img id="hackathon-logo" alt="Hackathon 2026 Home" src="/hackathon2026-schriftzug.svg"/></a></div></div><div class="main"><div class="navbar"><ul><li><a href="/">Allgemein</a></li><li><a style="background:var(--color-highlight-medium);color:var(--color-font-light);display:inline-block;height:auto;line-height:2" href="https://eveeno.com/hackathon2026" target="_blank" rel="noopener noreferrer" aria-label="Anmelden (öffnet in neuem Tab)">Anmelden</a></li><li><a href="/challenges-teilnehmer/">Deine Challenge</a></li><li><a href="/challenges/">Unsere Challenges</a><ul><li><a aria-current="page" class="" href="/challenge-erfassung-dachflaechen/">Dachflächen</a></li><li><a href="/challenge-reparatur-kultur/">Reparatur-Kultur</a></li><li><a href="/challenge-gruenflaechen/">Urban Gardening</a></li></ul></li><li><a href="/ablauf/">Ablauf</a></li><li><a href="/what-is-a-hackathon/">Was ist ein Hackathon?</a></li><li><a href="/faq/">FAQ</a></li><li><p>Sponsoring</p><ul><li><a href="/sponsors/">Unsere Sponsoren</a></li><li><a href="/unternehmensthemen/">Themen aus der Praxis</a></li><li><a href="/sponsoring/">Sponsor werden</a></li></ul></li><li><a href="/support/">Unterstützen</a></li></ul><div class="archive"><p>Archiv</p><ul><li><a href="https://hackathon20243.digitale-oberlausitz.eu">2024</a></li><li><a href="https://hackathon2023.digitale-oberlausitz.eu">2023</a></li><li><a href="https://hackathon2022.digitale-oberlausitz.eu">2022</a></li></ul></div></div><main class="content"><div><h1 id="challenge-erfassung-dachflächen" style="position:relative;"><a href="#challenge-erfassung-dachfl%C3%A4chen" aria-label="challenge erfassung dachflächen permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Challenge: Erfassung Dachflächen</h1>
-<p>Solaranlagen (Photovoltaik oder Solarthermie-Anlagen) sind ein zentraler Bestandteil der Energiewende, das Potential für die Installation und Nutzung von Dachflächen oder anderen geeigneten Flächen ist jedoch noch lange nicht ausgeschöpft. Gerade in Görlitz, aber insbesondere in der Görlitzer Altstadt haben wir bspw. einen großen Nachholbedarf und sicherlich ein noch ungenutztes Potential.</p>
-<p>Um die aktuelle Situation mit Daten und Fakten zu bewerten und diese auch in andere Planungs- und Entscheidungsprozesse der stadtischen Entwicklung (z. b. Wärmeplanung) einfließen zu lassen, benötigt es eine möglichst umfangreiche Datenquelle. Bestehende Datenquellen, wie z. B. das Solardatenkataster, liefern nicht genügend Informationen über den Standort und weitere Eigenschaften von Solaranlagen.</p>
-<p>Die Herausforderung ist also eine automatisierte Art Bestandsaufnahme über alle Solaranlagen und mögliche Potenziale für die weitere Installationen von Anlagen zu erkennen und zu bewerten. Dies erfordert eine präzise Analyse von Dachflächen hinsichtlich ihrer Eignung für Solaranlagen.</p>
-<h2 id="ausgangssituation" style="position:relative;"><a href="#ausgangssituation" aria-label="ausgangssituation permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Ausgangssituation</h2>
-<p>Es sind Areal Images ("Satellitenbilder") aus geeigneten Datenquellen zu verwenden, auf Basis derer eine Lösungsimplementierung erfolgen kann. Hierzu sind in der internen Datenquelle "Geodatenquellen.md" verschiedene Datenquellen aufgelistet, die benötigte Input-Daten liefern. Darüber hinaus sind im Verzeichnis "Solaranlagen Bestandaufnahme" verschiedene Research Papers gelistet, die die Informationen zur Analyse solcher Daten liefern.</p>
-<h2 id="aufgabenstellung" style="position:relative;"><a href="#aufgabenstellung" aria-label="aufgabenstellung permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Aufgabenstellung</h2>
-<p>Es soll ein System entwickelt werden, das folgende Aufgaben umsetzt-</p>
+  </script><title data-gatsby-head="true">faq</title></head><body><div id="___gatsby"><div style="outline:none" tabindex="-1" id="gatsby-focus-wrapper"><div class="App"><div class="header dark"><div class="title"><p><a href="https://www.digitale-oberlausitz.eu">Digitale Oberlausitz e.V.</a> präsentiert:</p><a href="/"><img id="hackathon-logo" alt="Hackathon 2026 Home" src="/hackathon2026-schriftzug.svg"/></a></div></div><div class="main"><div class="navbar"><ul><li><a href="/">Allgemein</a></li><li><a style="background:var(--color-highlight-medium);color:var(--color-font-light);display:inline-block;height:auto;line-height:2" href="https://eveeno.com/hackathon2026" target="_blank" rel="noopener noreferrer" aria-label="Anmelden (öffnet in neuem Tab)">Anmelden</a></li><li><a href="/challenges-teilnehmer/">Deine Challenge</a></li><li><a href="/challenges/">Unsere Challenges</a><ul><li><a href="/challenge-erfassung-dachflaechen/">Dachflächen</a></li><li><a href="/challenge-reparatur-kultur/">Reparatur-Kultur</a></li><li><a href="/challenge-gruenflaechen/">Urban Gardening</a></li></ul></li><li><a href="/ablauf/">Ablauf</a></li><li><a href="/what-is-a-hackathon/">Was ist ein Hackathon?</a></li><li><a aria-current="page" class="" href="/faq/">FAQ</a></li><li><p>Sponsoring</p><ul><li><a href="/sponsors/">Unsere Sponsoren</a></li><li><a href="/unternehmensthemen/">Themen aus der Praxis</a></li><li><a href="/sponsoring/">Sponsor werden</a></li></ul></li><li><a href="/support/">Unterstützen</a></li></ul><div class="archive"><p>Archiv</p><ul><li><a href="https://hackathon20243.digitale-oberlausitz.eu">2024</a></li><li><a href="https://hackathon2023.digitale-oberlausitz.eu">2023</a></li><li><a href="https://hackathon2022.digitale-oberlausitz.eu">2022</a></li></ul></div></div><main class="content"><div><h1 id="faq" style="position:relative;"><a href="#faq" aria-label="faq permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>FAQ</h1>
+<h2 id="was-ist-wenn-" style="position:relative;"><a href="#was-ist-wenn-" aria-label="was ist wenn  permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Was ist wenn ...</h2>
 <ul>
-<li>Identifikation vorhandener Solaranlagen: Erkennung und Auflistung von bereits installierten Solaranlagen auf Dächern</li>
-<li>Eignungsbewertung für Solaranlagen: Analyse und Auflistung von Dächern, zu ihrer Eignung für Solaranlagen, basierend auf Neigung, Größe, Ausrichtung und Art der Bebauung.</li>
+	<li> <div style="font-weight: bold;">... ich mich unwohl fühle?</div> 
+	Wir haben vor Ort Ansprechpersonen vom Orga-Team, an die Du dich mit deinen Anliegen wenden kannst. </li><br>
+	<li><div style="font-weight: bold;">… ich kurzfristig absagen muss?</div>
+        In diesem Fall schreibe uns bitte eine E-Mail an <a href="mailto:hackathon@digitale-oberlausitz.eu">hackathon@digitale-oberlausitz.eu</a> 
+        und gib deinen Namen, die E-Mail-Adresse, <br>mit der du dich registriert hast, oder die eveeno‑Buchungs-ID an, die dir bei der Registrierung zugewiesen wurde. </li><br>
+    <li>
+        <div style="font-weight: bold;">… ich nicht programmieren kann?</div>
+        Dazu gibt es vorab den Workshop „Vibe Coding for non-coders“.
+    </li><br>
+    <li><div style="font-weight: bold;">… ich Hilfe bei einer Aufgabe benötige?</div>
+        Vor Ort findest du Ansprechpartner*innen, die Fachwissen mitbringen und dich bei technischen Problemen oder der Lösungsfindung<br> unterstützen können.
+    </li><br>
+    <li><div style="font-weight: bold;">… ich mit meinen Freunden als Team teilnehmen möchte?</div>
+        Ihr könnt gerne als Team teilnehmen. Bitte meldet euch aber einzeln für den Hackathon an, damit wir alles planen können. <br> 
+        Die Teamgröße ist auf 5 Personen begrenzt. Wenn ihr mehr seid, bildet einfach zwei Teams.
+    </li><br>
+    <li><div style="font-weight: bold;">… ich (noch) kein Team habe?</div>
+        Du kannst sehr gerne auch ohne Team teilnehmen. Vor Ort unterstützen wir dabei, dass sich alle zu Teams zusammenfinden.
+    </li><br>
+    <li><div style="font-weight: bold;">… ist der Veranstaltungsort?</div>
+        Das „GO BE“ befindet sich in der Peterstraße 13, 02826 Görlitz.
+    </li><br>
+    <li>
+        <div style="font-weight: bold;">… kann ich mein Gefährt abstellen?</div>
+        Parkplätze für Autos sind größtenteils kostenpflichtig. Wir empfehlen den Parkplatz „Altstadt“, Hugo‑Keller‑Straße 16, oder den Obermarkt. <br>
+        Kostenfreie Parkplätze gibt es eher am Rand bzw. außerhalb der Altstadt.  
+        Fahrräder finden im Hinterhof des „GO BE“ Platz.
+    </li><br>
+    <li>
+        <div style="font-weight: bold;">… kann ich übernachten?</div>
+        In Görlitz gibt es zahlreiche Hotels und Pensionen. Außerdem befindet sich direkt neben dem „GO BE“ eine Jugendherberge.
+    </li>
 </ul>
-<p>Die Ergebnisse sollen in einem (maschinenverarbeitbaren) Report ausgegeben werden und ggf. auch visualisiert werden.</p>
-<p>Zusatz:</p>
+<h2 id="wobr" style="position:relative;"><a href="#wobr" aria-label="wobr permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Wo...<br></h2>
 <ul>
-<li>Datenvisualisierung: Erstellen einer interaktiven Karte, die zeigt, welche Dächer bereits Solaranlagen haben und welche potenziell geeignet sind.</li>
-<li>Empfehlungen: Bereitstellung von Empfehlungen und Berechnungen zur potenziellen Energieerzeugung und Kosten-Nutzen-Analyse für Eigentümer geeigneter Dächer.</li>
-<li>Integration mit städtischen Planungsdaten: Verknüpfung mit vorhandenen städtischen Datenbanken, um Eigentümer und Verwalter von Gebäuden zu informieren und die Genehmigungsprozesse zu unterstützen.</li>
+    <li>
+        <div style="font-weight: bold;">… kann ich entspannen?</div>
+        Am Veranstaltungsort gibt es Rückzugsorte, an denen du dich ausruhen, treffen oder unterhalten kannst.
+    </li><br>
+    <li>
+        <div style="font-weight: bold;">… finde ich Hilfe?</div>
+        Das Orga‑Team steht dir jederzeit für Rückfragen zur Verfügung.
+    </li>
 </ul>
-<p><a href="https://eveeno.com/hackathon2026" target="_blank" aria-label="Anmelden (öffnet in neuem Tab)"
-style="background: var(--color-highlight-medium);
-       color: var(--color-font-light);
-       display: inline-block;
-       height: auto;
-       line-height: 2;
- 	  padding: 0 0.5rem">
-Anmelden
-</a> </a> <a href="/Teilnahmebedingungen.pdf" target="_blank" rel="noopener noreferrer" aria-label="Teilnahmebedingungen (öffnet in neuem Tab)">
-Teilnahmebedingungen
-</a></p></div></main></div><div class="footer dark"><div class="footer-content"><a href="/impressum/">Impressum</a><a href="/code-of-conduct/">Code of Conduct</a></div></div></div></div><div id="gatsby-announcer" style="position:absolute;top:0;width:1px;height:1px;padding:0;overflow:hidden;clip:rect(0, 0, 0, 0);white-space:nowrap;border:0" aria-live="assertive" aria-atomic="true"></div></div><script id="gatsby-script-loader">/*<![CDATA[*/window.pagePath="/challenge-erfassung-dachflaechen/";/*]]>*/</script><!-- slice-start id="_gatsby-scripts-1" -->
+<h2 id="ablauf-und-technische-fragenbr" style="position:relative;"><a href="#ablauf-und-technische-fragenbr" aria-label="ablauf und technische fragenbr permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Ablauf und technische Fragen<br></h2>
+<ul>
+    <li>
+        <div style="font-weight: bold;">Gibt es vor Ort Internetzugang?</div>
+        Ja, vor Ort wird es einen W‑LAN‑Zugang für alle geben.
+    </li><br>
+    <li>
+        <div style="font-weight: bold;">Alternativ: Was, wenn ich keinen Laptop habe?</div>
+        Ein eigener Laptop ist wünschenswert. Wenn du keinen Laptop hast, sprich uns einfach an.
+    </li>
+</ul></div></main></div><div class="footer dark"><div class="footer-content"><a href="/impressum/">Impressum</a><a href="/code-of-conduct/">Code of Conduct</a></div></div></div></div><div id="gatsby-announcer" style="position:absolute;top:0;width:1px;height:1px;padding:0;overflow:hidden;clip:rect(0, 0, 0, 0);white-space:nowrap;border:0" aria-live="assertive" aria-atomic="true"></div></div><script id="gatsby-script-loader">/*<![CDATA[*/window.pagePath="/faq/";/*]]>*/</script><!-- slice-start id="_gatsby-scripts-1" -->
           <script
             id="gatsby-chunk-mapping"
           >
