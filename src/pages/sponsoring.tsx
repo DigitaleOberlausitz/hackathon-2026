@@ -2,7 +2,6 @@ import React, { useState } from "react"
 import { HeadFC, PageProps } from "gatsby"
 import { Layout } from "../components/layout"
 import ReactMarkdown from "react-markdown"
-import { SponsoringContractForm } from "../components/SponsoringContractForm"
 
 const SponsoringPage: React.FC<PageProps> = () => {
     const [hideMarkdown, setHideMarkdown] = useState(false)
@@ -15,24 +14,29 @@ const SponsoringPage: React.FC<PageProps> = () => {
                         children={`
 
 
-## Finanzsponsoring: Hackathon ermöglichen
-Mit einem finanziellen Beitrag unterstützen Sie die Durchführung des Hackathons, insbesondere Printwerbung und Catering am Veranstaltungstag.
+## Sponsor werden und Hackathon ermöglichen
+
+Mit einem finanziellen Beitrag unterstützen Sie die Organisation und Durchführung des Hackathons, insbesondere Printwerbung und Catering am Veranstaltungstag, sowie die gemeinnützige Arbeit im Bereich der [Volksbildung durch den Digitale Oberlausitz e. V.](https://digitale-oberlausitz.eu/verein/)
 Dafür bieten wir Sponsoringpakete mit Sichtbarkeit:
 
 ## Gold-Paket (1024 Euro)
-- alles aus Silber-Paket
+- Alles aus Silber-Paket
 - Sponsor kann sich auf Eröffnungsveranstaltung selbst vorstellen (5 Min)
-- stellen eines Jury-Mitglieds (Details des Jury-Prozesses folgen)
+- Stellen eines Jury-Mitglieds (Details des Jury-Prozesses folgen)
 - Zitat/Grußwort auf der Website (begrenzte Zeichenzahl, Foto von Personen + Logo möglich, Darstellung im Stile von Testimonials)
-- aufstellen eines Rollups (muss von Sponsor bereitgestellt werden)
-- großes Logo auf Sponsoring-Poster oder digitaler Sponsoren-Präsentation
+- Aufstellen eines Rollups (muss von Sponsor bereitgestellt werden)
+- Großes Logo auf Sponsoring-Poster oder digitaler Sponsoren-Präsentation
+
+[Link zum Gold-Sponsoring-Vertrag](/2026-sponsoring-hackathon-gold.pdf)
 
 ## Silber-Paket (512 Euro)
-- alles aus Bronze-Paket
+- Alles aus Bronze-Paket
 - Zugang zu Job-Wall (Pinnwand) bei der Veranstaltung
 - Aufhängen von eigenen Plakaten (in Abstimmung mit uns)
-- mittleres Logo auf Sponsoren-Poster oder digitaler Sponsoren-Präsentation
+- Mittleres Logo auf Sponsoren-Poster oder digitaler Sponsoren-Präsentation
 - Trailer/Poster auf Bildschirm-Wand im Durchlauf
+
+[Link zum Silber-Sponsoring-Vertrag](/2026-sponsoring-hackathon-silver.pdf)
 
 ## Bronze-Paket  (256 Euro)
 
@@ -41,27 +45,23 @@ Dafür bieten wir Sponsoringpakete mit Sichtbarkeit:
 - Erwähnung mit Logo auf Hackathon-Website
 - Erwähnung als Veranstaltungspartner durch uns bei Eröffnungsveranstaltung
 - kleines Logo auf Sponsoren-Poster oder digitaler Sponsoren-Präsentation
-- Erwähnung mit Logo auf Werbe-Plakat (zeitlich befristed bis 31.11.2026)
+- Erwähnung mit Logo auf Werbe-Plakat (zeitlich befristed bis 31.01.2026)
 
-**Wichtig: Sollte der Hackathon wider Erwarten nicht stattfinden, werden bereits gezahlte Sponsoringbeträge selbstverständlich vollständig zurückerstattet.**
+[Link zum Bronze-Sponsoring-Vertrag](/2026-sponsoring-hackathon-bronze.pdf)
 
 **Jetzt unterstützen!**
+
 Ob mit einem Thema oder als finanzieller Sponsor – Sie kommen mit engagierten Nachwuchstalenten in Kontakt und positionieren Ihr Unternehmen in einem innovativen Umfeld.
 
 *Interesse?*
-Schreiben Sie uns gern an hackathon@digitale-oberlausitz.eu – wir freuen uns auf den Austausch!
 
-Wir sind auf der Suche nach Sponsoren, die unsere Veranstaltung finanziell unterstützen möchten.
+Bei Fragen oder Anregungen schreiben Sie uns gern an [hackathon@digitale-oberlausitz.eu](mailto:hackathon@digitale-oberlausitz.eu) – wir freuen uns auf den Austausch!
 
-Wenn Sie unsere Vision teilen, unterstützen Sie uns! Das eingeworbene Geld wird vollständig für die 
-Organisation des Hackathons sowie die Finanzierung von Preisen für die Teilnehmenden verwendet.
-
-**Melden Sie sich bei Fragen gerne unter [hackathon@digitale-oberlausitz.eu](mailto:hackathon@digitale-oberlausitz.eu)**
+Um uns mit einem Sponsoring-Paket zu unterstützen, senden Sie uns bitte einen der Sponsoring-Verträge (Link unter Beschreibung des jeweiligen Pakets weiter oben) unterzeichnet an die Adresse [sponsoring@digitale-oberlausitz.eu](mailto:sponsoring@digitale-oberlausitz.eu). Wir werden Ihnen den vollständig unterschrieben an ihre Sender-Adresse zurücksenden.
             `}
                     />
                 </>
             )}
-            <SponsoringContractForm onShowResultPage={setHideMarkdown} />
         </Layout>
     )
 }

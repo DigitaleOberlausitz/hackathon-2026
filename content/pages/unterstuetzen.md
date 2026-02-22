@@ -9,5 +9,6 @@ oder [Fördermitglied](https://digitale-oberlausitz.eu/foerdermitglieder) (als U
 Spenden Sie für unsere [gemeinnützigen Vereinszwecke](https://digitale-oberlausitz.eu/verein)!
 
 -   GLS Bank (GENODEM1GLS)  
-    IBAN: DE82 4306 0967 1169 6170 00 (kopierbar und ohne Leerzeichen: DE82430609671169617000)
+    IBAN: DE82 4306 0967 1169 6170 00 (kopierbar und ohne Leerzeichen: DE82430609671169617000)  
+    Empfänger: "Digitale Oberlausitz e.V."
 -   PayPal [Geld senden](https://paypal.me/doev)
