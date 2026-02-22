@@ -30,7 +30,7 @@ const sponsors: Record<"gold" | "silver" | "bronze", Array<Sponsor>> = {
             logoImgPath: "/logo_zeiss.svg"
         },{
             id: "sponsor-2",
-            label: "SednaSoft Anja Schaffhirt",
+            label: "SednaSoft - A. Schaffhirt",
             linkTarget: "https://sedna-soft.de/",
             logoImgPath: "/logo_sednasoft.svg"
         }
@@ -41,7 +41,6 @@ const sponsors: Record<"gold" | "silver" | "bronze", Array<Sponsor>> = {
             id: "sponsor-3",
             label: "Brewes GmbH",
             linkTarget: "https://www.brewes.de",
-			//logoImgPath: "/path1.svg"
 			logoImgPath: "/Brewes_rot_slogan1.svg"
         },{
             id: "sponsor-4",
@@ -103,8 +102,8 @@ const SponsorsPage: React.FC<PageProps> = () => (
 
 Wir bedanken uns bei unseren Sponsoren, ohne die der Hackathon so nicht möglich wäre.
 Wir glauben, dass ein Hackathon in Görlitz ein Beitrag zur positiven Entwicklung der Region sein kann.
-In Görlitz und der Oberlausitz gibt es viele junge und kluge Leute, die ihre Kreativität für
-sinnvolle Projekte einsetzen möchten. Ein Hackathon kann ein Ort dafür sein und Technik-Interessierte Menschen
+In Görlitz und der Oberlausitz gibt es viele kluge Leute, die ihre Kreativität für
+sinnvolle Projekte einsetzen möchten. Ein Hackathon kann ein Ort dafür sein, um Technik-Interessierte Menschen
 zusammenbringen.
 Unsere Sponsoren unterstützen uns aktiv bei der Verwirklichung dieser Vision.
             `}
