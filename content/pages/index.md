@@ -71,7 +71,7 @@ Wir haben ein paar Themen aktuellen Herausforderungen, städtischer Entwicklung 
 [Mehr zur Challenge ...](/challenges/)
 
 
-## Newsletter??? wenn ja, muss link unten geändert werden
+## Newsletter
 
 Um auf dem Laufenden zu bleiben, melde dich gerne bei unserem Newsletter an.
 
