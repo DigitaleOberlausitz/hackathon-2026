@@ -25,8 +25,8 @@ const sponsors: Record<"gold" | "silver" | "bronze", Array<Sponsor>> = {
     gold: [
 		{
             id: "sponsor-1",
-            label: "Carl Zeiss AG",
-            linkTarget: "https://www.zeiss.de/corporate/home.html",
+            label: "ZEISS Digital Innovation",
+            linkTarget: "https://www.zeiss.de/digital-innovation/home.html",
             logoImgPath: "/logo_zeiss.svg"
         },{
             id: "sponsor-2",
