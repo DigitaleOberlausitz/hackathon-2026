@@ -63,5 +63,4 @@ _Je Team stehen 10 Minuten Präsentationszeit zur Verfügung._
 
 **15:40 – 16:00 Uhr** – Pause für die Jury
 
-**16:00 – 16:30 Uhr** – Auswertung & Awards
-						Auswertung & Auszeichnung der Teams
+**16:00 – 16:30 Uhr** – Auswertung & Auszeichnung der Teams
