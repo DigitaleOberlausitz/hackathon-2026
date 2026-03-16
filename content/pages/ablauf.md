@@ -11,9 +11,9 @@ Workshops an. Damit wir planen können, bitten wir um Anmeldung über den Anmeld
 Damit wir alles sorgfältig planen können und genug Equipment und Buffet bereitstehen, bitten wir um eine <br>***zeitnahe, ernstgemeinte Anmeldung***.
 Falls doch etwas wichtiges unvorhergesehenes dazwischen kommt, bitten wir ebenso um eine zeitnahe Abmeldung.
 
-- **25.03.2026 von 16:00 bis 19:00 Uhr - Design Thinking - Online oder Offline je nach Anmeldung**
+- **25.03.2026 von 16:00 bis 19:00 Uhr - Design Thinking - Offline <a href="https://innovationsakademie.com/" target="_blank" rel="noopener noreferrer" aria-label="zur Innovationsakademie (öffnet in neuem Tab)">in der Innovationsakademie Goethe42</a>**
 
-- **14.04.2026 von 16:00 bis 19:00 Uhr - Prototyping - Online oder Offline je nach Anmeldung**
+- **14.04.2026 von 16:00 bis 19:00 Uhr - Prototyping - Offline <a href="https://innovationsakademie.com/" target="_blank" rel="noopener noreferrer" aria-label="zur Innovationsakademie (öffnet in neuem Tab)"> in der Innovationsakademie Goethe42</a>**
 
 - **28.04.2026 von 16:00 bis 19:00 Uhr - Vibe Coding for No-Coders - Online**
 
@@ -22,6 +22,8 @@ Ihr habt ein Thema in unserer Themenliste gefunden?
 Hier könnt ihr Eure Fragen zu dem Thema an die Themengeber stellen und gegebenenfalls schon gelerntes aus den Workshops anwenden.
 
 **==30. und 31.05.2026 Der Hackathon==**
+
+---
 
 # Ablaufplan – Hackathon 2026
 
