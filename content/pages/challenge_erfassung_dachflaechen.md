@@ -13,7 +13,7 @@ Die Herausforderung ist also eine automatisierte Art Bestandsaufnahme über alle
 
 ## Ausgangssituation
 
-Es sind Areal Images ("Satellitenbilder") aus geeigneten Datenquellen zu verwenden, auf Basis derer eine Lösungsimplementierung erfolgen kann. Hierzu sind in der internen Datenquelle "Geodatenquellen.md" verschiedene Datenquellen aufgelistet, die benötigte Input-Daten liefern. Darüber hinaus sind im Verzeichnis "Solaranlagen Bestandaufnahme" verschiedene Research Papers gelistet, die die Informationen zur Analyse solcher Daten liefern.
+Es sind Aerial Images ("Satellitenbilder") aus geeigneten Datenquellen zu verwenden, auf Basis derer eine Lösungsimplementierung erfolgen kann. Hierzu sind in der internen Datenquelle "Geodatenquellen.md" verschiedene Datenquellen aufgelistet, die benötigte Input-Daten liefern. Darüber hinaus sind im Verzeichnis "Solaranlagen Bestandaufnahme" verschiedene Research Papers gelistet, die die Informationen zur Analyse solcher Daten liefern.
 
 ## Aufgabenstellung
 
