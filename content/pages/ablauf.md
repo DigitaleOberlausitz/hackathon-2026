@@ -13,9 +13,10 @@ Falls doch etwas wichtiges unvorhergesehenes dazwischen kommt, bitten wir ebenso
 
 - **25.03.2026 von 16:00 bis 19:00 Uhr - Design Thinking - Offline <a href="https://innovationsakademie.com/" target="_blank" rel="noopener noreferrer" aria-label="zur Innovationsakademie (öffnet in neuem Tab)">in der Innovationsakademie Goethe42</a>**
 
-- **14.04.2026 von 16:00 bis 19:00 Uhr - Prototyping - Offline <a href="https://innovationsakademie.com/" target="_blank" rel="noopener noreferrer" aria-label="zur Innovationsakademie (öffnet in neuem Tab)"> in der Innovationsakademie Goethe42</a>**
+- **14.04.2026 von 16:00 bis 19:00 Uhr - Prototyping - Offline 16:00 - 19:00 Uhr
+<a href="https://innovationsakademie.com/" target="_blank" rel="noopener noreferrer" aria-label="zur Innovationsakademie (öffnet in neuem Tab)"> in der Innovationsakademie Goethe42</a>**
 
-- **28.04.2026 von 16:00 bis 19:00 Uhr - Vibe Coding for No-Coders - Online**
+- **28.04.2026 von 16:00 bis 19:00 Uhr - Vibe Coding for No-Coders - Online 16:00 - 19:00 Uhr**
 
 Ihr habt ein Thema in unserer Themenliste gefunden?
 - **am 12.05./ 19.05.2026 gibt es ein onboarding mit dem Themengeber**
