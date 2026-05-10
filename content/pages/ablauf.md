@@ -19,8 +19,9 @@ Falls doch etwas wichtiges unvorhergesehenes dazwischen kommt, bitten wir ebenso
 - **28.04.2026 von 16:00 bis 19:00 Uhr - Vibe Coding for No-Coders - Online 16:00 - 19:00 Uhr**
 
 Ihr habt ein Thema in unserer Themenliste gefunden?
-- **am 12.05./ 19.05.2026 gibt es ein onboarding mit dem Themengeber**
+- **am 12.05./ 21.05.2026 gibt jeweils ab 19:00 Uhr es ein onboarding mit dem Themengeber**
 Hier könnt ihr Eure Fragen zu dem Thema an die Themengeber stellen und gegebenenfalls schon gelerntes aus den Workshops anwenden.
+<a href="https://nextcloud.digitale-oberlausitz.eu/apps/polls/s/TajXl4GU" target="_blank" rel="noopener noreferrer" aria-label="Anmeldung zum Meetup mit Challenge-Gebern (öffnet in neuem Tab)">Zur Anmeldung zum Meetup mit Challenge-Gebern</a>**
 
 **==30. und 31.05.2026 Der Hackathon==**
 
